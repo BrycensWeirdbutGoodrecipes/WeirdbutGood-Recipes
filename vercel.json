@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/generate-card.js": {
+      "includeFiles": "api/reference-card.jpg",
+      "maxDuration": 60
+    }
+  },
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "brycens-recipes.vercel.app" }],
+      "destination": "https://www.weirdbutgood.recipes/:path*",
+      "permanent": true
+    }
+  ]
+}

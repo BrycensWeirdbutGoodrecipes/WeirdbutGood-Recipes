@@ -1,0 +1,3515 @@
+{
+  "Green Goddess Smoothie": {
+    "desc": "This super green smoothie might look a little funny, but it's packed with yummy fruits and veggies that make you strong! It's like a secret garden in a cup, full of goodness your body will love.",
+    "ing": [
+      "1 cup spinach",
+      "1/2 banana",
+      "1/2 cup pineapple chunks",
+      "1/2 green apple, cored",
+      "1/2 cup water",
+      "1 tablespoon chia seeds"
+    ],
+    "steps": [
+      "Put all ingredients in a blender.",
+      "Blend until smooth and creamy.",
+      "Pour into a glass.",
+      "Enjoy your green power drink!"
+    ],
+    "taste": "Sweet + Fruity + Fresh ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Strawberry Basil Lassi": {
+    "desc": "This yummy drink is like a super-duper thick smoothie, but with a surprising twist! We're blending sweet strawberries with a secret herb called basil to make a frothy, fruity, and fresh treat that's a little bit weird but a whole lot delicious. It's like a strawberry shake that grew up and got fancy!",
+    "ing": [
+      "1 cup frozen strawberries",
+      "1/2 cup plain yogurt",
+      "1/4 cup milk",
+      "2-3 fresh basil leaves",
+      "1 tablespoon honey or maple syrup",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "Put all ingredients in a blender.",
+      "Blend until super smooth and creamy.",
+      "Pour into a fun glass.",
+      "Enjoy your yummy lassi!"
+    ],
+    "taste": "Sweet+Fruity+Herbal~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "PB Choco Power Shake": {
+    "desc": "This super yummy shake tastes like a peanut butter cup in a glass! It's a little bit nutty, a little bit chocolatey, and a whole lot of delicious. It might sound funny to put these things in a blender, but trust us, it's a super-powered treat!",
+    "ing": [
+      "1 cup milk",
+      "2 tablespoons peanut butter",
+      "1 tablespoon cocoa powder",
+      "1 banana, frozen",
+      "1 teaspoon honey"
+    ],
+    "steps": [
+      "Put all ingredients in a blender.",
+      "Blend until super smooth.",
+      "Pour into a fun glass.",
+      "Enjoy your power shake!"
+    ],
+    "taste": "Sweet + Nutty + Choco ~280 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Matcha Coconut Latte": {
+    "desc": "This yummy drink is like a creamy green cloud with a hint of tropical fun! It's a special treat because it mixes the earthy taste of matcha tea with sweet coconut milk, making a super cool and tasty drink that feels like a mini vacation for your taste buds.",
+    "ing": [
+      "1 tsp matcha powder",
+      "2 tbsp hot water",
+      "1 cup coconut milk (canned, full-fat)",
+      "1 tbsp maple syrup",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Whisk matcha and hot water until smooth.",
+      "Mix coconut milk and maple syrup.",
+      "Fill a glass with ice cubes.",
+      "Pour coconut mix over ice, then matcha."
+    ],
+    "taste": "Sweet+Creamy+Earthy ~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Omega Berry Boost": {
+    "desc": "This yummy pink drink is like a super-powered smoothie that helps you grow big and strong! It's a little bit different because it has tiny seeds that are good for your brain, but don't worry, they taste great mixed with the sweet berries!",
+    "ing": [
+      "1 cup frozen mixed berries",
+      "1/2 banana",
+      "1/2 cup almond milk",
+      "1 tablespoon chia seeds",
+      "1 teaspoon honey"
+    ],
+    "steps": [
+      "Put all ingredients in a blender.",
+      "Blend until smooth and creamy.",
+      "Pour into a fun glass.",
+      "Enjoy your healthy boost!"
+    ],
+    "taste": "Sweet+Berry+Creamy~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Ocean Green Juice": {
+    "desc": "Dive into an underwater adventure with this super cool Ocean Green Juice! It looks like something a mermaid would drink, and even though it's green, it tastes like a refreshing splash of fruit. It's a fun way to get your vitamins and feel like you're swimming in the ocean!",
+    "ing": [
+      "1 cup pineapple chunks",
+      "1/2 green apple, cored",
+      "1/2 banana, peeled",
+      "1/4 cup baby spinach",
+      "1/2 cup coconut water"
+    ],
+    "steps": [
+      "Put all ingredients in a blender.",
+      "Blend until smooth.",
+      "Pour into a fun cup.",
+      "Enjoy your ocean drink!"
+    ],
+    "taste": "Sweet, tropical, refreshing +++ ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Tropical Virgin Colada": {
+    "desc": "This yummy Tropical Virgin Colada is like a super-duper fruity milkshake without the milk! It's a sweet and tangy treat that tastes like a sunny vacation in a cup, perfect for when you want something fun and special to sip on.",
+    "ing": [
+      "1 cup pineapple chunks (frozen)",
+      "1/2 cup coconut milk (canned, full-fat)",
+      "1/4 cup orange juice",
+      "1/2 banana (frozen)",
+      "Small splash of grenadine (optional, for color)"
+    ],
+    "steps": [
+      "Combine all ingredients in a blender.",
+      "Blend until smooth and creamy.",
+      "Pour into a fun glass.",
+      "Garnish with a fruit slice if you like!"
+    ],
+    "taste": "Sweet+Fruity+Creamy~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Watermelon Mint Cooler": {
+    "desc": "This yummy Watermelon Mint Cooler is like a party in your mouth on a hot day! It's a sweet and refreshing drink that tastes like summer, with a surprising fresh minty zing that makes it extra special and super cool.",
+    "ing": [
+      "4 cups seedless watermelon, cubed",
+      "1/4 cup fresh mint leaves",
+      "1 tablespoon lime juice",
+      "1 tablespoon honey or maple syrup",
+      "1/2 cup cold water"
+    ],
+    "steps": [
+      "Put watermelon, mint, lime juice in blender.",
+      "Add honey and water to the blender.",
+      "Blend until smooth.",
+      "Pour into glasses and enjoy!"
+    ],
+    "taste": "Sweet+Fresh+Minty~75 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Cucumber Mint Spritz": {
+    "desc": "This yummy drink is like a cool hug for your tastebuds! It's super refreshing with a secret ingredient: cucumber! Don't worry, it tastes surprisingly good and will make you feel like you're at a fancy party.",
+    "ing": [
+      "1/2 large cucumber, peeled",
+      "10 fresh mint leaves",
+      "1 tablespoon lime juice",
+      "1 tablespoon sugar",
+      "1 cup cold sparkling water",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Chop cucumber into small pieces.",
+      "Blend cucumber, mint, lime juice, sugar.",
+      "Strain mixture into a glass.",
+      "Top with sparkling water and ice."
+    ],
+    "taste": "Sweet+Minty+Cool~60 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Dad's Dragon Fuel": {
+    "desc": "Get ready for a fiery adventure with Dad's Dragon Fuel! This drink looks super strange with its swampy green color, but don't let that fool you. It's a sweet and tangy concoction that will make you feel like you can breathe fire!",
+    "ing": [
+      "1 cup lemon-lime soda",
+      "1/4 cup pineapple juice",
+      "2 tablespoons lime juice",
+      "1 scoop vanilla ice cream",
+      "3 drops green food coloring"
+    ],
+    "steps": [
+      "Pour soda, pineapple juice, and lime juice into glass.",
+      "Add green food coloring and stir well.",
+      "Gently add a scoop of vanilla ice cream.",
+      "Watch it fizz and enjoy!"
+    ],
+    "taste": "Sweet+Tangy+Fizzy~180 cal estimate",
+    "cookTime": "PT3M",
+    "servings": "1"
+  },
+  "Spicy Watermelon Lemonade ️": {
+    "desc": "This isn't your average lemonade! Imagine juicy watermelon mixed with zesty lemon, but with a secret spicy kick that will make your taste buds tingle. It's a super fun and surprising drink that's weirdly delicious and perfect for a hot day.",
+    "ing": [
+      "2 cups chopped watermelon",
+      "1/2 cup lemon juice",
+      "1/4 cup sugar",
+      "1/2 cup water",
+      "Pinch of cayenne pepper",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Blend watermelon, lemon juice, sugar, and water.",
+      "Strain the mixture to remove pulp.",
+      "Stir in a tiny pinch of cayenne pepper.",
+      "Pour over ice and enjoy!"
+    ],
+    "taste": "Sweet+Tangy+Spicy! ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Matcha Grape Fizz": {
+    "desc": "Get ready for a super cool, fizzy drink that's green like a superhero and sweet like your favorite candy! This Matcha Grape Fizz might sound a little bit wild with matcha and grape, but it's a yummy adventure for your taste buds, a sweet and tangy treat.",
+    "ing": [
+      "1/2 cup grape juice",
+      "1/4 teaspoon matcha powder",
+      "1/4 cup sparkling water",
+      "1 teaspoon honey",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Mix matcha powder with a splash of hot water.",
+      "Stir honey into the matcha until dissolved.",
+      "Pour grape juice into a glass with ice.",
+      "Add matcha mix to the glass.",
+      "Top with sparkling water and stir gently."
+    ],
+    "taste": "Sweet+Fizzy+Tangy~90 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Island Coconut Chill": {
+    "desc": "This yummy drink is like a tropical vacation in a glass, perfect for a sunny day! It's a little bit creamy, a little bit sweet, and a whole lot of fun. You might think coconut and pineapple are a strange pair, but they taste super good together!",
+    "ing": [
+      "1 cup pineapple juice",
+      "1/2 cup coconut milk",
+      "1 tablespoon honey",
+      "1/4 teaspoon vanilla extract",
+      "1 cup ice cubes"
+    ],
+    "steps": [
+      "Pour pineapple juice into blender.",
+      "Add coconut milk, honey, and vanilla.",
+      "Add ice cubes to the blender.",
+      "Blend until smooth and frosty.",
+      "Pour into a fun glass."
+    ],
+    "taste": "Sweet + Creamy + Tropical ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Skinny Sunrise Coffee ️": {
+    "desc": "This is a super fun and yummy coffee drink that tastes like a sunny morning! It's a little bit like a fancy orange juice and a little bit like a creamy coffee, all mixed up into something wonderfully weird and delicious. You'll love the sweet and citrusy surprise!",
+    "ing": [
+      "1/2 cup orange juice",
+      "1/4 cup strong cold coffee",
+      "1/4 cup milk",
+      "1 teaspoon vanilla syrup",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Fill a glass with ice.",
+      "Pour in the orange juice.",
+      "Gently add the cold coffee.",
+      "Top with milk and vanilla syrup.",
+      "Stir and enjoy your sunrise!"
+    ],
+    "taste": "Sweet+Citrusy+Creamy~100 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Homemade Thunder Energy": {
+    "desc": "Get ready for a delicious, bubbly drink that's like a tiny storm in a cup! It's sweet and tangy, and the fizz makes it feel super special and fun, almost like magic. This drink might seem a little unusual, but it’s a tasty adventure for your taste buds!",
+    "ing": [
+      "1/2 cup grape juice",
+      "1/4 cup sparkling water",
+      "1 tablespoon lemon juice",
+      "1 teaspoon sugar",
+      "3-4 ice cubes"
+    ],
+    "steps": [
+      "Pour grape juice into a glass.",
+      "Add lemon juice and sugar. Stir well.",
+      "Top with sparkling water.",
+      "Add ice cubes. Serve immediately."
+    ],
+    "taste": "Sweet + Tangy + Fizzy ~80 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Midnight Cold Brew ️": {
+    "desc": "This Midnight Cold Brew is like a magic potion that helps you wake up super smart and ready for anything! It's a bit strange because it's dark like the night but gives you a gentle boost, not a crazy jump. It's really good for making your brain feel sparkly!",
+    "ing": [
+      "1 cup cold water",
+      "1/4 cup ground coffee (decaf for kids!)",
+      "1 tablespoon milk",
+      "1 teaspoon sugar",
+      "2 ice cubes"
+    ],
+    "steps": [
+      "Mix water and coffee in a jar.",
+      "Let it sit in the fridge overnight.",
+      "Strain coffee grounds out.",
+      "Add milk, sugar, and ice."
+    ],
+    "taste": "Dark Roast + Sweet + Creamy ~15 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Weirdo Cold Brew": {
+    "desc": "This is not your grown-up's coffee! It's a super cool, super sweet, and super chocolatey cold brew drink that's a little weird but a whole lot yummy. It's like a special treat that wakes up your taste buds with a happy dance!",
+    "ing": [
+      "1 cup cold brew coffee (decaf for kids!)",
+      "1/4 cup chocolate syrup",
+      "2 tablespoons sweetened condensed milk",
+      "1/2 teaspoon vanilla extract",
+      "1/4 cup whole milk",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Pour cold brew into a glass.",
+      "Add chocolate syrup and condensed milk.",
+      "Stir well to mix everything.",
+      "Add vanilla and regular milk.",
+      "Fill glass with ice cubes.",
+      "Stir one last time and enjoy!"
+    ],
+    "taste": "Sweet + Chocolate + Yum! ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Ghost Pepper Cold Brew": {
+    "desc": "This isn't your average coffee! We're making a super cool, super spicy cold brew that will wake you up and make your taste buds tingle. It's a fun and fiery drink for brave adventurers who love a little kick!",
+    "ing": [
+      "1 cup cold water",
+      "1/4 cup coffee grounds",
+      "1 tiny sliver ghost pepper",
+      "1 tsp sugar",
+      "1/4 cup milk"
+    ],
+    "steps": [
+      "Mix water and coffee grounds.",
+      "Add a tiny piece of ghost pepper.",
+      "Chill for 12-24 hours.",
+      "Strain out grounds and pepper.",
+      "Stir in sugar and milk."
+    ],
+    "taste": "Spicy+Sweet+Creamy~50 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Orange Basil Cold Brew": {
+    "desc": "This isn't your average boring cold brew! We're adding a burst of sunny orange and a secret herb, basil, to make a super refreshing and surprisingly delicious drink. It's like a flavor party in your mouth that will wake you up and make you smile.",
+    "ing": [
+      "1 cup cold brew coffee",
+      "1/2 orange, sliced",
+      "3-4 fresh basil leaves",
+      "1 tsp maple syrup",
+      "Ice"
+    ],
+    "steps": [
+      "Put orange slices and basil in a glass.",
+      "Gently mash with a spoon.",
+      "Add cold brew and maple syrup.",
+      "Stir well and add ice."
+    ],
+    "taste": "Citrusy+Herby+Sweet~100 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Sunny Lemonade": {
+    "desc": "This isn't just any lemonade; it's Sunny Lemonade, bursting with bright lemon flavor and a secret ingredient that makes it extra special and super yummy! It's sweet, tangy, and a little bit bubbly, making it the perfect drink for a sunny day.",
+    "ing": [
+      "1 cup fresh lemon juice",
+      "1/2 cup granulated sugar",
+      "3 cups cold water",
+      "1/4 cup lemon-lime soda",
+      "Thin lemon slices, for garnish"
+    ],
+    "steps": [
+      "Squeeze lemons to get 1 cup juice.",
+      "Mix lemon juice and sugar in a pitcher.",
+      "Stir in cold water until sugar dissolves.",
+      "Gently pour in lemon-lime soda.",
+      "Serve over ice with a lemon slice."
+    ],
+    "taste": "Sweet+Sour+Bubbly~150 cal",
+    "cookTime": "PT5M",
+    "servings": "4"
+  },
+  "Purple Power Grape Juice": {
+    "desc": "Get ready for a super-powered purple drink! This grape juice is a yummy, sweet, and tangy treat that’s extra fun because it starts with frozen grapes. It's like a slushy but even better for you!",
+    "ing": [
+      "2 cups frozen red grapes",
+      "1/2 cup cold water",
+      "1 tablespoon lemon juice",
+      "1 teaspoon honey (optional)"
+    ],
+    "steps": [
+      "Put frozen grapes in a blender.",
+      "Add water and lemon juice.",
+      "Blend until smooth.",
+      "Add honey if you want it sweeter.",
+      "Pour and enjoy your purple power!"
+    ],
+    "taste": "Sweet+Tart+Refreshing~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Cinnamon Maple Cold Foam Latte": {
+    "desc": "Imagine a yummy coffee drink that feels like a cozy autumn hug! This latte has a special foamy topping that tastes like sweet maple syrup and warm cinnamon, making your coffee extra delicious and fun. It's like a dessert and a drink all in one!",
+    "ing": [
+      "1 cup cold brew coffee",
+      "1/2 cup milk",
+      "2 tablespoons heavy cream",
+      "1 tablespoon maple syrup",
+      "1/4 teaspoon ground cinnamon"
+    ],
+    "steps": [
+      "Brew 1 cup cold brew coffee.",
+      "In a small bowl, whisk cream, syrup, cinnamon.",
+      "Whisk until foamy, about 1-2 minutes.",
+      "Pour coffee into a glass.",
+      "Top with the cinnamon maple foam."
+    ],
+    "taste": "Sweet+Maple+Cinnamon~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mocha Mint Frappé": {
+    "desc": "Get ready for a super cool and yummy treat that tastes like a chocolate-mint dream! It's like a milkshake and a coffee all mixed up, perfect for a sunny day. This drink is a fun combo of flavors you might not expect, but it's oh-so-good!",
+    "ing": [
+      "1 cup ice cubes",
+      "1/2 cup cold milk",
+      "1 tablespoon chocolate syrup",
+      "1/4 teaspoon mint extract",
+      "1 shot (1 oz) espresso or strong coffee",
+      "Whipped cream for topping"
+    ],
+    "steps": [
+      "Put ice, milk, syrup, mint, and coffee in blender.",
+      "Blend until smooth and frothy.",
+      "Pour into a tall glass.",
+      "Top with whipped cream."
+    ],
+    "taste": "Sweet+Minty+Choco~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Salted Honey Espresso Tonic": {
+    "desc": "This bubbly coffee drink is a super cool mix of sweet honey, a little bit of salty surprise, and yummy espresso! It might sound a little different, but it's like a fizzy, sweet treat that grown-ups love and you might too! It's a fun way to try new flavors.",
+    "ing": [
+      "1 shot espresso",
+      "1 tbsp honey",
+      "Pinch of sea salt",
+      "1/2 cup tonic water",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Mix honey and salt into espresso.",
+      "Fill a glass with ice.",
+      "Pour honey-espresso over ice.",
+      "Top with tonic water."
+    ],
+    "taste": "Sweet+Salty+Bubbly~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Brown Butter Vanilla Latte": {
+    "desc": "This latte is like a warm, cozy hug in a mug with a secret nutty taste! We toast butter until it smells like yummy cookies, then mix it with vanilla and coffee for a surprisingly delicious and comforting treat. It's a little bit different, but super good!",
+    "ing": [
+      "1 tablespoon unsalted butter",
+      "1 cup milk",
+      "1/2 teaspoon vanilla extract",
+      "1 shot (1/4 cup) espresso or strong coffee",
+      "1 teaspoon brown sugar (optional)"
+    ],
+    "steps": [
+      "Melt butter in a pan until golden brown.",
+      "Warm milk gently in a separate pan.",
+      "Stir vanilla, coffee, and sugar into milk.",
+      "Add brown butter to the milk mixture.",
+      "Pour into a mug and enjoy!"
+    ],
+    "taste": "Warm, nutty, sweet +++ ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Matcha Espresso Fusion": {
+    "desc": "Get ready for a super cool green and brown drink that tastes like a yummy surprise! It's a little bit like a sweet, milky tea and a little bit like a strong coffee, all swirled together for a fun new flavor adventure. You'll love how the creamy milk makes both the matcha and espresso extra special!",
+    "ing": [
+      "1/2 teaspoon matcha powder",
+      "2 tablespoons warm water",
+      "1/2 cup milk",
+      "1 tablespoon simple syrup",
+      "1 shot espresso (about 1 oz)",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Whisk matcha and water in a mug.",
+      "Add ice and milk to a glass.",
+      "Stir in the simple syrup.",
+      "Gently pour espresso over milk.",
+      "Top with the matcha mixture."
+    ],
+    "taste": "Sweet+Earthy+Creamy~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Cookies & Cream Cold Brew": {
+    "desc": "Imagine your favorite cookies and cream ice cream, but in a yummy, chilly coffee drink! It's a little bit coffee, a little bit sweet, and a whole lot of fun with crunchy cookie bits. It might sound funny to mix cookies with coffee, but trust us, it's super delicious!",
+    "ing": [
+      "1 cup cold brew coffee",
+      "1/4 cup milk",
+      "2 tablespoons chocolate syrup",
+      "1/4 teaspoon vanilla extract",
+      "2 crushed chocolate sandwich cookies",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Pour cold brew, milk, syrup, vanilla in glass.",
+      "Stir well to mix everything.",
+      "Add ice cubes to the drink.",
+      "Sprinkle crushed cookies on top."
+    ],
+    "taste": "Sweet + Creamy + Crunchy ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Yerba Mate Citrus Bomb": {
+    "desc": "Get ready to blast off with this super cool, super yummy drink! It's like lemonade but with a secret ingredient that gives you a fun burst of energy, perfect for playing all day. It's a little bit fizzy, a little bit sweet, and totally refreshing!",
+    "ing": [
+      "1 cup brewed yerba mate, chilled",
+      "1/2 cup orange juice",
+      "1/4 cup lemon juice",
+      "1 tablespoon honey or maple syrup",
+      "1/4 cup sparkling water",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Brew yerba mate and chill it.",
+      "Mix mate, orange juice, lemon juice, and syrup.",
+      "Pour over ice in a tall glass.",
+      "Top with sparkling water and stir gently."
+    ],
+    "taste": "Citrusy+Sweet+Bubbly+ ~50 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Coconut Lime Electrolyte": {
+    "desc": "This yummy drink is like a tropical vacation in a cup, helping you feel super energized and ready to play! It's a little bit sweet, a little bit tangy, and perfect for when you're thirsty after running around. You'll love its creamy coconut and zesty lime flavor!",
+    "ing": [
+      "1 cup coconut water",
+      "1/4 cup lime juice",
+      "1 tablespoon honey",
+      "1/8 teaspoon sea salt",
+      "1/2 cup cold water"
+    ],
+    "steps": [
+      "Pour coconut water into a glass.",
+      "Add lime juice, honey, and sea salt.",
+      "Stir well until honey dissolves.",
+      "Top with cold water and mix."
+    ],
+    "taste": "Sweet+Tangy+Coconut ~60 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Honey Ginger Power Shot": {
+    "desc": "This zingy little drink is like a superhero potion for your tummy! It's sweet from honey, a little spicy from ginger, and super refreshing to help you feel awake and ready to play. It might sound a little strange, but it tastes yummy and makes you feel like you have extra energy!",
+    "ing": [
+      "1/4 cup water",
+      "1 tablespoon honey",
+      "1 teaspoon fresh ginger, grated",
+      "1/2 lemon, squeezed"
+    ],
+    "steps": [
+      "Pour water into a small cup.",
+      "Stir in honey until dissolved.",
+      "Add grated ginger and lemon juice.",
+      "Mix everything together well.",
+      "Drink up your power shot!"
+    ],
+    "taste": "Sweet+Zingy+Spicy ~25 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Beet Pre-Workout Fuel": {
+    "desc": "This bright pink drink is a super cool way to get ready for playing! It might sound a little funny to drink beets, but they give you lots of energy to run and jump like a superhero. It's a sweet and earthy treat that helps you power up!",
+    "ing": [
+      "1 small cooked beet, peeled",
+      "1/2 cup apple juice",
+      "1/4 cup water",
+      "1/2 inch ginger, peeled (optional)",
+      "1/2 cup ice"
+    ],
+    "steps": [
+      "Put beet, apple juice, water, and ginger in blender.",
+      "Blend until smooth.",
+      "Add ice.",
+      "Blend again until icy cold."
+    ],
+    "taste": "Sweet+Earthy+Fresh ~90 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Green Thunder Energy": {
+    "desc": "Get ready to power up with Green Thunder Energy! This super cool drink is a little bit zesty, a little bit sweet, and totally delicious. It's weird but good because it uses secret ingredients to give you a boost of energy for playtime!",
+    "ing": [
+      "1 cup sparkling water",
+      "1/4 cup lime juice",
+      "2 tablespoons honey",
+      "1/4 cup spinach (fresh)",
+      "1/2 green apple, cored"
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend until smooth.",
+      "Pour into a fun glass.",
+      "Enjoy your energy boost!"
+    ],
+    "taste": "Zesty+Sweet+Refreshing ~90 cal",
+    "cookTime": "PT2M",
+    "servings": "1"
+  },
+  "Strawberry Pepper Fizz": {
+    "desc": "This yummy pink drink is super fizzy and tastes like strawberries, but with a secret kick! We add a tiny bit of pepper to make it extra interesting and tingly on your tongue. It's a fun and surprising treat!",
+    "ing": [
+      "1 cup sliced strawberries",
+      "1/4 teaspoon black pepper",
+      "1 tablespoon sugar",
+      "1/2 cup water",
+      "1 cup lemon-lime soda",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Mash strawberries, pepper, and sugar.",
+      "Stir in water.",
+      "Pour mixture into a glass with ice.",
+      "Top with lemon-lime soda."
+    ],
+    "taste": "Sweet+Berry+Spicy~90 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Watermelon Jalapeño": {
+    "desc": "This super-refreshing drink combines sweet watermelon with a tiny zing of jalapeño for a surprising taste adventure! It's like a sweet summer day with a playful little tickle on your tongue. Get ready for a delicious and exciting treat!",
+    "ing": [
+      "2 cups cubed watermelon",
+      "1/4 inch slice jalapeño (remove seeds)",
+      "1/2 cup cold water",
+      "1 tablespoon lime juice",
+      "1 teaspoon sugar (optional)"
+    ],
+    "steps": [
+      "Put watermelon and jalapeño in blender.",
+      "Add water, lime juice, and sugar.",
+      "Blend until smooth.",
+      "Pour through a strainer into a glass."
+    ],
+    "taste": "Sweet + Spicy + Refreshing ~75 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Blackberry Sage Limeade": {
+    "desc": "This Blackberry Sage Limeade is a super yummy and refreshing drink that's perfect for a sunny day! It might sound a little weird to put sage in a drink, but trust us, it gives it a super cool, fresh taste that makes it extra special and delicious. It's like a secret garden party in your mouth!",
+    "ing": [
+      "1 cup fresh blackberries",
+      "1/4 cup fresh lime juice",
+      "2 tablespoons sugar",
+      "4 fresh sage leaves",
+      "1 cup cold water",
+      "Ice"
+    ],
+    "steps": [
+      "Mash blackberries, lime juice, sugar, and sage.",
+      "Pour mixture through a strainer.",
+      "Press to get all the juice out.",
+      "Stir in cold water.",
+      "Serve over ice!"
+    ],
+    "taste": "Sweet+Tart+Herby~80 cal estimate",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Pineapple Cilantro Cooler": {
+    "desc": "This sunny Pineapple Cilantro Cooler is a super refreshing drink that might sound a little surprising with its special green herb, but trust us, it's a delicious and tangy adventure for your taste buds! It's sweet, a little zesty, and perfect for a warm day.",
+    "ing": [
+      "1 cup pineapple chunks (fresh or frozen)",
+      "1/4 cup fresh cilantro leaves",
+      "1/2 cup water",
+      "1 tablespoon lime juice",
+      "1 teaspoon honey (optional)",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Put pineapple, cilantro, water in blender.",
+      "Add lime juice and honey (if using).",
+      "Blend until smooth and frothy.",
+      "Pour over ice cubes."
+    ],
+    "taste": "Sweet + Tangy + Refreshing ~120 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mango Chili Lassi": {
+    "desc": "This super yummy drink is like a creamy mango smoothie, but with a secret spicy kick! It's a little bit sweet, a little bit tangy, and a tiny bit tingly, making it a fun and surprising treat that your taste buds will love. It's weird-but-good because the chili makes the sweet mango even sweeter!",
+    "ing": [
+      "1 cup chopped mango",
+      "1/2 cup plain yogurt",
+      "1/4 cup milk",
+      "1 tablespoon honey",
+      "Pinch of chili powder"
+    ],
+    "steps": [
+      "Put mango, yogurt, milk, honey in blender.",
+      "Add a tiny pinch of chili powder.",
+      "Blend until super smooth and creamy.",
+      "Pour into a glass and enjoy!"
+    ],
+    "taste": "Sweet+Creamy+Spicy~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Pomegranate Mint Iced Tea": {
+    "desc": "This yummy Pomegranate Mint Iced Tea is a super cool drink that's both sweet and a little tingly! It's like a party in your mouth with a burst of fruity flavor and a refreshing minty surprise that makes it extra special and fun to sip.",
+    "ing": [
+      "1 cup pomegranate juice",
+      "1/2 cup water",
+      "2 tablespoons fresh mint leaves",
+      "1 teaspoon honey",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Mix juice, water, mint, and honey.",
+      "Stir well until honey dissolves.",
+      "Pour over ice cubes.",
+      "Garnish with a mint leaf."
+    ],
+    "taste": "Fruity+Minty+Sweet~80 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Cardamom Rose Milk": {
+    "desc": "Imagine a warm hug in a mug, but it tastes like a secret garden! This pink drink is creamy and sweet, with a special spice called cardamom and a flowery hint of rose. It's a bit different, but super yummy and cozy for a cold day.",
+    "ing": [
+      "1 cup milk",
+      "1 tsp sugar",
+      "1/4 tsp ground cardamom",
+      "1/4 tsp rose water",
+      "Tiny pinch of pink food coloring (optional)"
+    ],
+    "steps": [
+      "Warm milk gently in a small pot.",
+      "Stir in sugar and cardamom.",
+      "Add rose water and food coloring.",
+      "Pour into a mug and enjoy!"
+    ],
+    "taste": "Sweet + Floral + Warm ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mexican Hot Chocolate": {
+    "desc": "This isn't your average hot chocolate! We're adding a secret ingredient – a tiny pinch of chili powder – to make it taste warm and cozy in a surprising way. It's like a hug in a mug with a little spicy tickle!",
+    "ing": [
+      "2 cups milk",
+      "2 tablespoons unsweetened cocoa powder",
+      "2 tablespoons sugar",
+      "1/4 teaspoon cinnamon",
+      "Pinch of chili powder",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "Heat milk in a saucepan.",
+      "Whisk in cocoa, sugar, cinnamon, chili.",
+      "Stir until hot and frothy.",
+      "Remove from heat, add vanilla.",
+      "Pour into mugs and enjoy!"
+    ],
+    "taste": "Sweet+Spicy+Warm~250 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Spiced Apple Cider": {
+    "desc": "Warm up with a cozy cup of Spiced Apple Cider! It's like a hug in a mug, tasting sweet and a little bit like fall leaves. You'll love sipping this yummy drink, especially when it's chilly outside.",
+    "ing": [
+      "4 cups apple juice",
+      "1/4 cup brown sugar",
+      "1 cinnamon stick",
+      "3 whole cloves",
+      "1/4 teaspoon nutmeg"
+    ],
+    "steps": [
+      "Pour apple juice into a pot.",
+      "Add brown sugar, cinnamon stick, and cloves.",
+      "Stir in nutmeg.",
+      "Heat over medium until warm.",
+      "Carefully remove spices before serving."
+    ],
+    "taste": "Sweet + warm + apple~150 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "London Fog Latte": {
+    "desc": "Imagine a cozy cup of tea that tastes like a sweet dream! This London Fog Latte is a warm, creamy drink that mixes the yummy taste of Earl Grey tea with vanilla and milk. It's like a hug in a mug, perfect for a rainy day.",
+    "ing": [
+      "1 Earl Grey tea bag",
+      "1/2 cup hot water",
+      "1/2 cup milk",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon sugar"
+    ],
+    "steps": [
+      "Steep tea bag in hot water for 3 minutes.",
+      "Warm milk in a small pot.",
+      "Stir vanilla and sugar into the tea.",
+      "Pour warm milk into the tea."
+    ],
+    "taste": "Sweet + Creamy + Warm ~120 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Cucumber Basil Spritz": {
+    "desc": "This super refreshing drink is like a spa day for your taste buds! It's a bubbly blend of cool cucumber and herby basil, which might sound a little strange, but trust us, it's a surprisingly delicious combo that'll make your mouth happy.",
+    "ing": [
+      "1/2 cucumber, peeled and chopped",
+      "5 fresh basil leaves",
+      "1 tablespoon lime juice",
+      "1 tablespoon maple syrup",
+      "1 cup sparkling water"
+    ],
+    "steps": [
+      "Blend cucumber, basil, lime juice, and syrup.",
+      "Strain mixture into a glass.",
+      "Top with sparkling water.",
+      "Stir gently and enjoy!"
+    ],
+    "taste": "Refreshing + Herbal + Sweet ~30 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Hibiscus Lime Cooler": {
+    "desc": "This super pretty pink drink is like a magic potion that's both sweet and a little bit tangy! It's weird-but-good because it tastes like a flower garden mixed with sunshine, making your taste buds dance with joy.",
+    "ing": [
+      "1 cup water",
+      "2 tablespoons dried hibiscus flowers",
+      "1 tablespoon lime juice",
+      "1 tablespoon honey or agave",
+      "1/2 cup ice"
+    ],
+    "steps": [
+      "Boil water, then add hibiscus flowers.",
+      "Steep 5 minutes, then strain out flowers.",
+      "Stir in lime juice and honey.",
+      "Pour over ice and enjoy!"
+    ],
+    "taste": "Floral+Tangy+Sweet ~70 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Ginger Pear Mule": {
+    "desc": "This fizzy, fruity drink is like a party in a glass! Sweet pear and a little zing from ginger make a super cool combination that might sound a little weird, but tastes really yummy and refreshing. It's like a grown-up drink, but made just for you!",
+    "ing": [
+      "1/2 cup pear nectar",
+      "1/4 cup ginger ale",
+      "1 tablespoon lime juice",
+      "2-3 thin pear slices",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Fill a glass with ice.",
+      "Pour in pear nectar and lime juice.",
+      "Top with ginger ale.",
+      "Stir gently.",
+      "Garnish with pear slices."
+    ],
+    "taste": "Sweet+Fizzy+Zingy~90 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Lavender Lemonade": {
+    "desc": "Get ready for a magical drink that's both flowery and zingy! This lavender lemonade is a super cool purple color and tastes like a sunny garden party in a cup. It might sound a little strange, but it's a yummy surprise your taste buds will love!",
+    "ing": [
+      "1 cup sugar",
+      "1 cup water",
+      "1 tsp dried lavender",
+      "1 cup lemon juice",
+      "3 cups cold water",
+      "Lemon slices for garnish"
+    ],
+    "steps": [
+      "Boil sugar and 1 cup water to make syrup.",
+      "Add lavender to hot syrup; steep for 10 mins.",
+      "Strain out lavender from the syrup.",
+      "Mix syrup, lemon juice, and cold water.",
+      "Serve over ice with a lemon slice."
+    ],
+    "taste": "Floral + Sweet + Tangy ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Skinny Vanilla Iced Coffee": {
+    "desc": "This yummy iced coffee is like a grown-up milkshake, but super light and not too sweet! It's a cool, creamy treat that gives you a little energy boost without all the extra sugar. It's weird-but-good because it tastes like a dessert but helps you stay active!",
+    "ing": [
+      "1 cup cold coffee",
+      "1/2 cup unsweetened almond milk",
+      "1 teaspoon vanilla extract",
+      "2 packets zero-calorie sweetener",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Brew coffee and let it cool completely.",
+      "Add cold coffee to a tall glass.",
+      "Stir in almond milk, vanilla, and sweetener.",
+      "Fill glass with ice cubes.",
+      "Stir well and enjoy!"
+    ],
+    "taste": "Sweet + Creamy + Refreshing ~15 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Berry Hibiscus Splash": {
+    "desc": "This Berry Hibiscus Splash is like a magic potion that tastes super yummy and looks really pretty! It's a little bit tangy from the berries and a little bit flowery from the hibiscus, which might sound weird, but it's a super cool and refreshing drink perfect for a hot day.",
+    "ing": [
+      "1 hibiscus tea bag",
+      "1 cup hot water",
+      "1/4 cup frozen mixed berries",
+      "1 tablespoon honey",
+      "1/2 cup cold sparkling water",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Steep tea bag in hot water for 5 minutes.",
+      "Remove tea bag, let tea cool.",
+      "Mash berries with honey in a glass.",
+      "Add cooled tea and ice to glass.",
+      "Top with sparkling water and stir."
+    ],
+    "taste": "Fruity + floral + bubbly ~25 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Cucumber Ginger Detox": {
+    "desc": "This green drink might look a little funny, but it's super refreshing and good for you! It's like a cool sip of garden with a zesty kick, perfect for when you need a little pick-me-up. It's a weird-but-good way to feel like a superhero!",
+    "ing": [
+      "1 medium cucumber, peeled",
+      "1 inch fresh ginger, peeled",
+      "1 cup cold water",
+      "1 tablespoon lemon juice",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Chop cucumber and ginger into small pieces.",
+      "Put all ingredients into a blender.",
+      "Blend until very smooth.",
+      "Pour through a fine-mesh sieve.",
+      "Serve immediately over ice."
+    ],
+    "taste": "Fresh+Zingy+Cool ~30 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Tomato Basil Zinger": {
+    "desc": "This zesty red drink is like a yummy, cool tomato soup you can sip with a straw! It's a little bit salty, a little bit sweet, and super refreshing, making it a weird-but-good adventure for your taste buds.",
+    "ing": [
+      "1 cup tomato juice",
+      "1/4 cup water",
+      "1/4 tsp dried basil",
+      "Pinch of salt",
+      "Pinch of sugar",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Pour tomato juice and water into a glass.",
+      "Add basil, salt, and sugar.",
+      "Stir well to mix everything.",
+      "Add ice cubes and enjoy!"
+    ],
+    "taste": "Savory+Cool+Refreshing~45 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Miso Caramel Coffee": {
+    "desc": "This coffee drink is a super cool mix of salty and sweet, like a surprise party for your taste buds! The miso adds a secret savory kick to the yummy caramel, making your coffee extra special and delicious. It's weird but in the best possible way!",
+    "ing": [
+      "1 cup hot coffee",
+      "2 tablespoons caramel sauce",
+      "1/2 teaspoon miso paste",
+      "1 tablespoon milk",
+      "Whipped cream (optional)"
+    ],
+    "steps": [
+      "Mix miso and caramel in a mug.",
+      "Pour hot coffee into the mug.",
+      "Stir in the milk.",
+      "Top with whipped cream, if you like!"
+    ],
+    "taste": "Sweet+Savory+Warm~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Pickle Brine Sparkler": {
+    "desc": "This zesty drink takes pickle juice and makes it bubbly and fun! It's a surprising mix of sour, salty, and sweet that might sound strange, but tastes super refreshing and yummy, especially on a hot day. Get ready for a pickle party in your mouth!",
+    "ing": [
+      "1/2 cup pickle juice",
+      "1/2 cup sparkling water",
+      "1 teaspoon honey or maple syrup",
+      "1 pickle spear (for garnish)",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Fill a glass with ice cubes.",
+      "Pour in the pickle juice.",
+      "Add the sparkling water.",
+      "Stir in the honey or maple syrup.",
+      "Garnish with a pickle spear."
+    ],
+    "taste": "Salty+Sour+Sweet+Bubbly~30 cal",
+    "cookTime": "PT2M",
+    "servings": "1"
+  },
+  "Tuna Cucumber Bites": {
+    "desc": "These yummy tuna cucumber bites are like tiny sandwiches without the bread, making them a super cool and crunchy snack! They're packed with protein to keep you full and have a refreshing taste that's surprisingly delicious. It's a fun way to eat your veggies and get your tuna fix!",
+    "ing": [
+      "1 (5 oz) can tuna, drained",
+      "1/4 cup mayonnaise",
+      "1/4 cup finely chopped celery",
+      "1/4 teaspoon salt",
+      "1 large cucumber, sliced into 1/2-inch rounds",
+      "Pinch of black pepper"
+    ],
+    "steps": [
+      "In a bowl, mix tuna, mayo, celery, salt, and pepper.",
+      "Arrange cucumber slices on a plate.",
+      "Spoon tuna mixture onto each cucumber slice.",
+      "Serve immediately and enjoy!"
+    ],
+    "taste": "Fresh + Crunchy + Savory ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Shrimp Mango Boats": {
+    "desc": "Get ready for a yummy adventure with these Shrimp Mango Boats! We're putting sweet mango and juicy shrimp together in a super fun way. It might sound a little different, but it's a delicious and colorful snack you'll love!",
+    "ing": [
+      "1 ripe mango, halved",
+      "6 cooked shrimp, peeled",
+      "1 tbsp lime juice",
+      "1 tsp honey",
+      "Pinch of chili powder"
+    ],
+    "steps": [
+      "Scoop out some mango flesh, leaving a shell.",
+      "Dice the removed mango flesh.",
+      "Mix mango, shrimp, lime juice, honey, chili.",
+      "Spoon mixture back into mango shells."
+    ],
+    "taste": "Sweet+Tangy+Shrimp~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Salmon Cream Toast": {
+    "desc": "Get ready for a super yummy and easy snack! This Salmon Cream Toast is like a fancy fish sandwich but on crunchy toast, topped with creamy goodness and yummy salmon. It's a bit different, but trust us, it's so good and fun to eat!",
+    "ing": [
+      "2 slices whole wheat bread",
+      "2 tablespoons cream cheese",
+      "1/4 cup canned salmon, drained",
+      "1 pinch black pepper",
+      "1 teaspoon fresh dill, chopped"
+    ],
+    "steps": [
+      "Toast bread until golden and crisp.",
+      "Mix cream cheese, salmon, pepper, and dill.",
+      "Spread salmon mixture evenly on toast.",
+      "Cut toast in half and serve immediately."
+    ],
+    "taste": "Creamy+Savory+Fishy~280 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Tuna Melt Bites": {
+    "desc": "These tiny tuna melts are like mini sandwiches but way more fun! They're crunchy on the outside and warm and cheesy on the inside, making them a yummy surprise for your taste buds. It's like a secret snack party in your mouth!",
+    "ing": [
+      "1 can (5 oz) tuna, drained",
+      "2 tbsp mayonnaise",
+      "1/4 cup shredded cheddar cheese",
+      "12 round buttery crackers",
+      "Pinch of black pepper"
+    ],
+    "steps": [
+      "Mix tuna, mayo, cheese, and pepper.",
+      "Spoon tuna mix onto 6 crackers.",
+      "Top with remaining 6 crackers.",
+      "Microwave for 15-20 seconds until warm."
+    ],
+    "taste": "Cheesy++ Crunchy+ ~150 cal",
+    "cookTime": "PT2M",
+    "servings": "2"
+  },
+  "Stuffed Caprese Tomatoes": {
+    "desc": "Get ready for a yummy surprise! We're taking juicy tomatoes and stuffing them with a creamy, cheesy mix. It's like a tiny salad party inside a tomato, and it's super fun to eat!",
+    "ing": [
+      "4 small tomatoes",
+      "1/4 cup mozzarella cheese, shredded",
+      "2 tablespoons cream cheese, softened",
+      "1 tablespoon fresh basil, chopped",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Cut tops off tomatoes, scoop out insides.",
+      "Mix mozzarella, cream cheese, basil, salt.",
+      "Spoon cheese mix into tomatoes.",
+      "Serve immediately."
+    ],
+    "taste": "Creamy+Cheesy+Fresh~80 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Hummus Pinwheels": {
+    "desc": "These yummy pinwheels are like mini sandwiches but rolled up in a spiral, which makes them super fun to eat! They're packed with creamy hummus and fresh veggies, making them a healthy and delicious snack that's both colorful and tasty.",
+    "ing": [
+      "1/2 cup hummus",
+      "2 whole wheat tortillas",
+      "1/4 cup shredded carrots",
+      "1/4 cup finely chopped cucumber",
+      "2 tablespoons cream cheese"
+    ],
+    "steps": [
+      "Spread hummus evenly on tortillas.",
+      "Sprinkle carrots and cucumber.",
+      "Spread cream cheese lightly over veggies.",
+      "Roll tortillas up tightly.",
+      "Slice into 1-inch pinwheels."
+    ],
+    "taste": "Creamy+Veggie+Fun ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Mushroom Quesadilla": {
+    "desc": "Imagine a super yummy cheesy sandwich, but instead of bread, it's made with soft tortillas! This quesadilla has yummy mushrooms inside, making it extra special and a little bit like a secret garden snack. It's warm, gooey, and so much fun to eat!",
+    "ing": [
+      "2 small tortillas",
+      "1/2 cup shredded cheese",
+      "1/4 cup sliced mushrooms",
+      "1 tbsp butter",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Melt butter in a pan over medium heat.",
+      "Put one tortilla in the pan.",
+      "Sprinkle cheese and mushrooms on top.",
+      "Place the second tortilla on top.",
+      "Cook until golden, then flip and cook other side."
+    ],
+    "taste": "Cheesy+Earthy+Warm+ ~280 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Tiny Cheese Board": {
+    "desc": "Ever wanted a whole cheese board just for YOU? Now you can! This tiny board has yummy cheese, crunchy crackers, and sweet grapes, all in a super small size that's easy to make and fun to eat. It's weird because it's so small, but good because it's all your favorite snacks on one plate!",
+    "ing": [
+      "1 small slice cheddar cheese",
+      "3 round butter crackers",
+      "5 red grapes",
+      "1 small dollop cream cheese",
+      "1 tiny pinch everything bagel seasoning"
+    ],
+    "steps": [
+      "Cut cheese into small shapes.",
+      "Arrange cheese and crackers on a plate.",
+      "Add grapes to the plate.",
+      "Spoon cream cheese onto a cracker.",
+      "Sprinkle seasoning on cream cheese."
+    ],
+    "taste": "Cheesy+Crunchy+Sweet ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Apple Nachos": {
+    "desc": "What's better than nachos? Apple nachos! This fun and healthy snack takes crisp apple slices and turns them into a sweet treat with yummy toppings. It's a silly way to eat fruit, but so delicious!",
+    "ing": [
+      "1 large apple, sliced",
+      "2 tbsp peanut butter",
+      "1 tbsp mini chocolate chips",
+      "1 tbsp chopped peanuts",
+      "1 tsp honey"
+    ],
+    "steps": [
+      "Slice apple into thin rounds or wedges.",
+      "Arrange apple slices on a plate.",
+      "Drizzle with peanut butter and honey.",
+      "Sprinkle with chocolate chips and peanuts."
+    ],
+    "taste": "Sweet + Crunchy + Fun ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Banana Sushi": {
+    "desc": "Get ready for some silly sushi that's actually a sweet banana treat! We're taking yummy bananas and rolling them in fun toppings, then slicing them up like tiny sushi rolls. It's a super easy and delicious snack that kids love to make and eat!",
+    "ing": [
+      "2 ripe bananas, peeled",
+      "2 tablespoons peanut butter",
+      "1/4 cup mini chocolate chips",
+      "1/4 cup sprinkles",
+      "1/4 cup shredded coconut"
+    ],
+    "steps": [
+      "Spread peanut butter on each banana.",
+      "Roll bananas in chocolate chips, sprinkles, or coconut.",
+      "Slice each banana into 1-inch \"sushi\" pieces.",
+      "Arrange on a plate and enjoy!"
+    ],
+    "taste": "Sweet+Fruity+Crunchy ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Honey Cinnamon Strips": {
+    "desc": "These Honey Cinnamon Strips are like magic toast without the toaster! You get crunchy, sweet, and cinnamony goodness all in one bite. It’s a super fun snack that tastes like a warm hug.",
+    "ing": [
+      "2 slices bread",
+      "1 tbsp butter, melted",
+      "1 tbsp honey",
+      "1/2 tsp cinnamon",
+      "1 tsp sugar"
+    ],
+    "steps": [
+      "Cut bread into strips.",
+      "Mix melted butter and honey.",
+      "Brush butter mix on bread strips.",
+      "Sprinkle cinnamon and sugar.",
+      "Bake at 350°F for 5-7 minutes."
+    ],
+    "taste": "Sweet+Crunchy+Cinnamon~150 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Watermelon Pizza": {
+    "desc": "Get ready for a super cool and yummy treat that looks like pizza but tastes like summer! We're making a \"Watermelon Pizza\" with juicy watermelon as our crust and all sorts of colorful fruits and toppings. It's a weird combo that's surprisingly delicious and super fun to eat!",
+    "ing": [
+      "1 small watermelon, sliced into rounds",
+      "1/2 cup Greek yogurt",
+      "1/4 cup mixed berries",
+      "1 kiwi, sliced",
+      "1 tablespoon shredded coconut",
+      "1 tablespoon mini chocolate chips"
+    ],
+    "steps": [
+      "Lay watermelon slices flat on a plate.",
+      "Spread yogurt thinly over each slice.",
+      "Decorate with berries, kiwi, and coconut.",
+      "Sprinkle with mini chocolate chips.",
+      "Slice like a pizza and enjoy!"
+    ],
+    "taste": "Fruity+Sweet+Cool ~120 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Trail Mix Bites": {
+    "desc": "These yummy Trail Mix Bites are like tiny energy cookies, but without any baking! They're packed with tasty nuts, sweet fruit, and a little chocolate, making them a super fun and healthy snack to keep you going all day. It's a weird-but-good mix of chewy and crunchy that kids love!",
+    "ing": [
+      "1/2 cup rolled oats",
+      "1/4 cup peanut butter",
+      "1/4 cup honey",
+      "1/4 cup mini chocolate chips",
+      "1/4 cup raisins",
+      "1/4 cup chopped peanuts"
+    ],
+    "steps": [
+      "Mix all ingredients in a bowl.",
+      "Roll into small, bite-sized balls.",
+      "Place on a plate or tray.",
+      "Chill in the fridge for 15 minutes."
+    ],
+    "taste": "Sweet+Nutty+Chewy ~120 cal",
+    "cookTime": "PT10M",
+    "servings": "8"
+  },
+  "Cucumber Salsa Boats": {
+    "desc": "Get ready for a crunchy and refreshing snack that’s super fun to eat! These cucumber boats are filled with a zesty salsa, making a yummy and healthy treat that's weird-but-good because it's like a mini salad in a boat!",
+    "ing": [
+      "1 large cucumber",
+      "1/2 cup chopped tomato",
+      "1/4 cup chopped red onion",
+      "1 tbsp lime juice",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Cut cucumber in half lengthwise.",
+      "Scoop out seeds to make \"boats.\"",
+      "Mix tomato, onion, lime juice, and salt.",
+      "Spoon salsa into cucumber boats."
+    ],
+    "taste": "Crunchy+Fresh+Tangy~30 cal estimate",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "PB Choco Pretzel Bark": {
+    "desc": "Get ready for a super yummy and crunchy treat! This bark mixes your favorite peanut butter and chocolate with salty pretzels for a snack that sounds a little crazy but tastes amazing. It's easy to make and perfect for sharing!",
+    "ing": [
+      "1 cup chocolate chips",
+      "1/2 cup peanut butter",
+      "1 cup mini pretzel twists",
+      "2 tbsp powdered sugar"
+    ],
+    "steps": [
+      "Melt chocolate chips in microwave.",
+      "Spread melted chocolate on parchment paper.",
+      "Mix peanut butter and powdered sugar.",
+      "Drop peanut butter blobs on chocolate.",
+      "Sprinkle pretzels all over the bark.",
+      "Chill until firm, then break into pieces."
+    ],
+    "taste": "Sweet+Salty+Crunchy~150 cal",
+    "cookTime": "PT15M",
+    "servings": "8"
+  },
+  "Quesadilla Pinwheels": {
+    "desc": "These Quesadilla Pinwheels are a super fun and yummy way to eat your favorite cheesy snack! We're rolling up tortillas with cheese and then slicing them into spirals, like little edible wheels. It's a silly and tasty twist on a classic!",
+    "ing": [
+      "2 flour tortillas (8-inch)",
+      "1/2 cup shredded cheddar cheese",
+      "2 tbsp salsa (optional)",
+      "1 tbsp sour cream (optional)"
+    ],
+    "steps": [
+      "Lay tortillas flat.",
+      "Sprinkle cheese evenly on tortillas.",
+      "Roll tortillas up tightly.",
+      "Slice each roll into 6-8 pinwheels.",
+      "Serve with salsa and sour cream for dipping."
+    ],
+    "taste": "Cheesy+Savory+Fun!~180 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Frozen Yogurt Bark": {
+    "desc": "This super cool treat is like a yummy, crunchy, and creamy snack all in one! It's a bit like a chocolate bar, but made with tangy yogurt and your favorite fruity toppings. It might sound a little strange to freeze yogurt flat, but it tastes so good you'll want to make it again and again!",
+    "ing": [
+      "1 cup vanilla yogurt",
+      "1/4 cup mixed berries",
+      "1 tablespoon mini chocolate chips",
+      "1 teaspoon honey"
+    ],
+    "steps": [
+      "Line a tray with parchment paper.",
+      "Spread yogurt thinly on the paper.",
+      "Sprinkle berries and chocolate chips.",
+      "Drizzle with honey.",
+      "Freeze for 2 hours until firm.",
+      "Break into pieces and enjoy!"
+    ],
+    "taste": "Sweet+Tangy+Fruity ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Crunchy Chickpeas ️": {
+    "desc": "Get ready for a super fun and yummy snack! These crunchy chickpeas are like tiny, crispy popcorn that are good for you. They might sound a little weird, but trust us, they're so good, you'll want to eat them all!",
+    "ing": [
+      "1 (15-oz) can chickpeas, rinsed",
+      "1 tbsp olive oil",
+      "1/2 tsp garlic powder",
+      "1/4 tsp salt",
+      "Pinch of paprika"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Dry chickpeas very well with a towel.",
+      "Toss chickpeas with oil and spices.",
+      "Spread on a baking sheet.",
+      "Bake 20-30 minutes until crispy."
+    ],
+    "taste": "Savory + Crispy + Salty ~150 cal",
+    "cookTime": "PT30M",
+    "servings": "2"
+  },
+  "Strawberry Cheesecake Bites": {
+    "desc": "These tiny treats are like a super yummy strawberry cheesecake in just one bite! They're weird-but-good because they taste like a fancy dessert but are so small and easy to pop in your mouth, making them extra fun to eat. Get ready for a burst of sweet and creamy strawberry goodness!",
+    "ing": [
+      "4 oz cream cheese, softened",
+      "1/4 cup powdered sugar",
+      "1/2 tsp vanilla extract",
+      "1/4 cup finely diced strawberries",
+      "1/2 cup graham cracker crumbs"
+    ],
+    "steps": [
+      "Mix cream cheese, sugar, and vanilla.",
+      "Stir in the diced strawberries.",
+      "Roll mixture into small balls.",
+      "Roll each ball in graham cracker crumbs.",
+      "Chill for 15 minutes before serving."
+    ],
+    "taste": "Sweet+Creamy+Fruity~80 cal",
+    "cookTime": "PT15M",
+    "servings": "6"
+  },
+  "Caprese Skewers": {
+    "desc": "Imagine a rainbow on a stick that tastes like sunshine! These Caprese skewers are tiny towers of yummy mozzarella cheese, sweet tomatoes, and fresh basil leaves. It's a super fun way to eat something healthy and delicious, like a mini pizza without the crust!",
+    "ing": [
+      "10 cherry tomatoes",
+      "10 small fresh mozzarella balls (bocconcini)",
+      "10 fresh basil leaves",
+      "1 tbsp olive oil",
+      "1 tsp balsamic glaze (optional)"
+    ],
+    "steps": [
+      "Wash tomatoes and basil.",
+      "Thread a tomato onto a skewer.",
+      "Add a mozzarella ball.",
+      "Add a basil leaf.",
+      "Repeat for all skewers.",
+      "Drizzle with olive oil and glaze."
+    ],
+    "taste": "Fresh+Cheesy+Sweet~90 cal",
+    "cookTime": "PT5M",
+    "servings": "5"
+  },
+  "Avocado Toast Bites": {
+    "desc": "Get ready for a super yummy and easy snack that’s perfect for little hands! These avocado toast bites are like tiny green sandwiches on crunchy bread, packed with healthy goodness. It might sound a little different, but the creamy avocado on crispy toast with a sprinkle of salt is a surprisingly delicious combo!",
+    "ing": [
+      "1 ripe avocado",
+      "2 slices whole wheat bread",
+      "Pinch of salt",
+      "Pinch of black pepper",
+      "Squeeze of lemon juice (optional)"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Mash avocado in a bowl.",
+      "Stir in salt, pepper, and lemon.",
+      "Spread avocado on toast.",
+      "Cut toast into small squares."
+    ],
+    "taste": "Creamy+Crunchy+Salty~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Honey Cinnamon Fries": {
+    "desc": "Get ready for a sweet and salty surprise! These fries are tossed with honey and cinnamon, making them taste like a dessert and a snack all in one. It might sound a little strange, but trust us, your taste buds will love this yummy combination!",
+    "ing": [
+      "1 bag frozen French fries",
+      "2 tbsp honey",
+      "1/2 tsp cinnamon",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Bake fries according to package directions.",
+      "Warm honey in a microwave-safe bowl.",
+      "In a large bowl, toss hot fries with honey.",
+      "Sprinkle with cinnamon and salt. Serve warm!"
+    ],
+    "taste": "Sweet+Salty+Warm~350 cal",
+    "cookTime": "PT20M",
+    "servings": "2"
+  },
+  "Choco Banana Bites": {
+    "desc": "Get ready for a yummy snack that's super easy to make! These Choco Banana Bites are a fun mix of sweet chocolate and creamy banana, perfect for a quick treat. It might sound a little silly, but trust us, it's so good!",
+    "ing": [
+      "2 ripe bananas",
+      "1/2 cup chocolate chips",
+      "1 tablespoon coconut oil",
+      "Sprinkles (optional)"
+    ],
+    "steps": [
+      "Slice bananas into thick coins.",
+      "Melt chocolate chips with coconut oil.",
+      "Dip banana slices in melted chocolate.",
+      "Add sprinkles, then freeze for 15 mins."
+    ],
+    "taste": "Sweet+Fruity+Crunchy~90 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Cookie Dough Bites": {
+    "desc": "Ever wished you could just eat cookie dough straight from the bowl? Now you can, safely! These yummy bites are like tiny, sweet treats that taste just like your favorite chocolate chip cookies, but without any baking. They're a little weird because they aren't baked, but super good because they're so easy and delicious!",
+    "ing": [
+      "1/2 cup butter, softened",
+      "1/4 cup brown sugar",
+      "2 tablespoons milk",
+      "1/2 teaspoon vanilla extract",
+      "1 cup all-purpose flour",
+      "1/2 cup mini chocolate chips"
+    ],
+    "steps": [
+      "Mix butter and sugar until fluffy.",
+      "Stir in milk and vanilla.",
+      "Add flour and mix well.",
+      "Fold in chocolate chips.",
+      "Roll into small balls.",
+      "Chill for 15 minutes."
+    ],
+    "taste": "Sweet + Chocolatey + Fun ~150 cal",
+    "cookTime": "PT15M",
+    "servings": "4"
+  },
+  "Pizza Roll-Ups": {
+    "desc": "Get ready for a super fun and yummy snack that's like a tiny pizza you can roll up! We're taking all the best pizza flavors and making them into a tasty bite-sized treat. It's weird because it's not a normal pizza, but it's good because it's so easy to eat and so delicious!",
+    "ing": [
+      "4 slices sandwich bread",
+      "2 tbsp pizza sauce",
+      "1/4 cup shredded mozzarella cheese",
+      "4 slices pepperoni",
+      "1 tbsp melted butter"
+    ],
+    "steps": [
+      "Flatten bread with a rolling pin.",
+      "Spread sauce on each bread slice.",
+      "Sprinkle cheese and add pepperoni.",
+      "Roll up each slice tightly.",
+      "Brush rolls with melted butter.",
+      "Air fry at 350°F for 4-5 mins."
+    ],
+    "taste": "Cheesy+Tomatoey+Savory~150 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Crunch Parfait Cup": {
+    "desc": "This yummy Crunch Parfait Cup is like a super-easy, super-fun dessert layered in a cup! It's weird-but-good because you get creamy, crunchy, and fruity all in one bite, and you get to build it yourself!",
+    "ing": [
+      "1/2 cup vanilla yogurt",
+      "1/4 cup granola",
+      "1/4 cup mixed berries",
+      "1 tablespoon honey",
+      "1 tablespoon sprinkles"
+    ],
+    "steps": [
+      "Spoon half the yogurt into a cup.",
+      "Add half the granola and berries.",
+      "Drizzle with half the honey.",
+      "Repeat layers with remaining ingredients.",
+      "Top with colorful sprinkles."
+    ],
+    "taste": "Sweet+Fruity+Crunchy~180 cal estimate",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Spicy Mango Cups": {
+    "desc": "Get ready for a taste adventure with these Spicy Mango Cups! It's a super cool snack that mixes sweet mango with a tiny kick, making your taste buds do a happy dance. It might sound a little wild, but it's a yummy surprise you'll love!",
+    "ing": [
+      "1 ripe mango, peeled and diced",
+      "1/4 teaspoon chili powder",
+      "1/4 teaspoon lime juice",
+      "1 pinch salt"
+    ],
+    "steps": [
+      "Dice the mango into small cubes.",
+      "Put mango in a small cup.",
+      "Sprinkle chili powder and salt.",
+      "Drizzle with lime juice.",
+      "Stir gently to mix."
+    ],
+    "taste": "Sweet+Spicy+Tangy~80 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mini Quesadilla Stack": {
+    "desc": "Get ready for a cheesy, mini adventure! These tiny quesadillas are stacked high for a fun snack that's easy to eat. It's like a delicious, cheesy tower you can gobble up!",
+    "ing": [
+      "4 small flour tortillas",
+      "1/2 cup shredded cheddar cheese",
+      "1 tbsp butter",
+      "1/4 cup salsa (optional)"
+    ],
+    "steps": [
+      "Melt butter in a pan over medium heat.",
+      "Place a tortilla in the pan.",
+      "Sprinkle cheese on half the tortilla.",
+      "Fold tortilla in half, cook until golden.",
+      "Cut into small triangles and stack."
+    ],
+    "taste": "Cheesy++ Savory+ ~180 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Cucumber Hummus Boats": {
+    "desc": "These aren't your typical boats, but they're super yummy! We're scooping creamy hummus into cool cucumber halves, making a crunchy and delicious snack that's perfect for a healthy treat. It's like a tiny, tasty adventure for your mouth!",
+    "ing": [
+      "1 large cucumber",
+      "1/2 cup hummus",
+      "1 tablespoon chopped fresh parsley",
+      "Pinch of paprika"
+    ],
+    "steps": [
+      "Wash and slice cucumber in half lengthwise.",
+      "Scoop out seeds with a small spoon.",
+      "Fill cucumber halves with hummus.",
+      "Sprinkle with parsley and paprika."
+    ],
+    "taste": "Fresh + Creamy + Crunchy ~80 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Bell Pepper Crunch Cups ️": {
+    "desc": "These Bell Pepper Crunch Cups are like tiny edible bowls filled with yummy, crispy goodness! It might sound a little silly to eat a pepper like a cup, but the sweet crunch of the pepper with the creamy filling is a super fun and healthy snack you'll love. It's a colorful treat that makes snack time exciting!",
+    "ing": [
+      "1 small bell pepper (any color)",
+      "2 tablespoons cream cheese (light)",
+      "1 tablespoon finely chopped cucumber",
+      "1 teaspoon everything bagel seasoning",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Wash and cut bell pepper in half. Remove seeds.",
+      "Mix cream cheese, cucumber, seasoning, and salt.",
+      "Spoon mixture into bell pepper halves.",
+      "Enjoy your crunchy cups!"
+    ],
+    "taste": "Crunchy+Creamy+Savory~70 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Power Trail Mix Bars": {
+    "desc": "These yummy Power Trail Mix Bars are super easy to make and pack a punch of energy for all your adventures! They might look a little lumpy, but the mix of crunchy nuts, chewy fruit, and sweet chocolate makes them taste amazing and keeps you going strong. It's a weird-but-good snack for playtime or homework!",
+    "ing": [
+      "1 cup rolled oats",
+      "1/2 cup peanut butter",
+      "1/4 cup honey",
+      "1/4 cup mini chocolate chips",
+      "1/4 cup raisins",
+      "1/4 cup chopped nuts (like almonds or walnuts)"
+    ],
+    "steps": [
+      "Mix oats, peanut butter, and honey in a bowl.",
+      "Stir in chocolate chips, raisins, and nuts.",
+      "Press mixture into a small pan.",
+      "Chill for 30 minutes until firm.",
+      "Cut into bars."
+    ],
+    "taste": "Sweet+Nutty+Chewy ~180 cal",
+    "cookTime": "PT10M",
+    "servings": "6"
+  },
+  "Espresso Date Bites": {
+    "desc": "These yummy bites are like a tiny coffee shop treat you can make yourself! They're sweet and chewy with a little kick of espresso, perfect for when you need a burst of energy to play or study. It might sound strange, but the dates and coffee together are super tasty!",
+    "ing": [
+      "1 cup pitted dates",
+      "1/4 cup rolled oats",
+      "1 tbsp instant espresso powder",
+      "1 tbsp cocoa powder",
+      "1 tbsp maple syrup",
+      "1/4 cup shredded coconut (optional, for rolling)"
+    ],
+    "steps": [
+      "Combine dates, oats, espresso, cocoa, syrup.",
+      "Blend until a sticky dough forms.",
+      "Roll dough into small bite-sized balls.",
+      "Roll balls in shredded coconut, if using.",
+      "Chill for 10 minutes before serving."
+    ],
+    "taste": "Sweet + Chewy + Coffee ~90 cal",
+    "cookTime": "PT10M",
+    "servings": "8"
+  },
+  "Spicy Mango Chili Pops ️": {
+    "desc": "Get ready for a flavor explosion with these Spicy Mango Chili Pops! They might sound a little crazy with sweet mango and a fiery kick, but trust us, it's a super fun and yummy snack. It's like a party in your mouth!",
+    "ing": [
+      "1 large ripe mango, peeled and diced",
+      "1/4 cup water",
+      "1 tablespoon lime juice",
+      "1/2 teaspoon chili powder",
+      "1/4 teaspoon salt"
+    ],
+    "steps": [
+      "Blend mango, water, lime juice until smooth.",
+      "Stir in chili powder and salt.",
+      "Pour mixture into popsicle molds.",
+      "Freeze until solid, about 4 hours."
+    ],
+    "taste": "Sweet+Spicy+Tangy~80 cal estimate",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Fire Popcorn Cups": {
+    "desc": "Get ready for a fiery snack adventure with these Fire Popcorn Cups! We're taking regular popcorn and adding a secret spicy kick that's super fun and a little bit weird, but in a totally delicious way. It’s a warm, crunchy treat that's perfect for movie night or a brave snack time.",
+    "ing": [
+      "4 cups popped popcorn",
+      "2 tbsp melted butter",
+      "1/4 tsp chili powder",
+      "1/8 tsp smoked paprika",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Pop the popcorn and put in a bowl.",
+      "Melt butter and pour over popcorn.",
+      "Sprinkle chili powder, paprika, and salt.",
+      "Toss gently until all coated.",
+      "Serve in small cups."
+    ],
+    "taste": "Spicy+Crunchy+Warm ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Sriracha Pretzel Bites": {
+    "desc": "These Sriracha Pretzel Bites are a super fun and spicy snack that will make your taste buds tingle! It's a little bit weird to put hot sauce on pretzels, but trust us, it's a delicious and crunchy adventure you'll love. Get ready for a flavorful kick!",
+    "ing": [
+      "2 cups mini pretzel twists",
+      "2 tbsp butter, melted",
+      "1 tbsp Sriracha sauce",
+      "1/2 tsp garlic powder",
+      "1/4 tsp onion powder"
+    ],
+    "steps": [
+      "Preheat oven to 300°F (150°C).",
+      "Mix butter and Sriracha in a bowl.",
+      "Add pretzels, garlic, and onion powder; toss.",
+      "Spread pretzels on a baking sheet.",
+      "Bake for 10 minutes until crispy."
+    ],
+    "taste": "Spicy+Crunchy+Salty~150 cal",
+    "cookTime": "PT15M",
+    "servings": "4"
+  },
+  "Watermelon Feta Bites": {
+    "desc": "Get ready for a super surprising and yummy snack! We're mixing sweet watermelon with salty feta cheese, and it sounds a little strange, but it tastes amazing. It's like a party in your mouth with every bite!",
+    "ing": [
+      "4 cups watermelon, cubed",
+      "1/2 cup feta cheese, crumbled",
+      "1 tbsp fresh mint, chopped (optional)"
+    ],
+    "steps": [
+      "Cut watermelon into bite-sized cubes.",
+      "Gently crumble feta cheese over watermelon.",
+      "Sprinkle with fresh mint, if using.",
+      "Serve immediately and enjoy!"
+    ],
+    "taste": "Sweet+Salty+Refreshing~150 cal",
+    "cookTime": "PT5M",
+    "servings": "4"
+  },
+  "Frozen Grape Bombs": {
+    "desc": "Get ready for a super cool, super yummy snack that's secretly just grapes! These frozen grape bombs are like tiny bursts of sweet, icy flavor that will make your taste buds tingle. It's a little weird to freeze grapes, but trust us, it's SO good and refreshing!",
+    "ing": [
+      "2 cups seedless grapes",
+      "1/4 cup lime juice",
+      "2 tablespoons sugar"
+    ],
+    "steps": [
+      "Wash and dry the grapes.",
+      "Mix lime juice and sugar in a bowl.",
+      "Add grapes and toss to coat.",
+      "Spread grapes on a baking sheet.",
+      "Freeze for at least 2 hours."
+    ],
+    "taste": "Sweet + Tart + Icy ~60 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Berry Yogurt Drops": {
+    "desc": "Get ready for a super cool, super yummy snack! These Berry Yogurt Drops are like tiny, frozen clouds of fruity goodness. They're weird because they're frozen yogurt you eat with your fingers, but so good because they burst with berry flavor!",
+    "ing": [
+      "1 cup mixed berries (fresh or frozen)",
+      "1/2 cup plain yogurt",
+      "1 tablespoon honey or maple syrup"
+    ],
+    "steps": [
+      "Blend berries, yogurt, and sweetener.",
+      "Spoon small drops onto parchment paper.",
+      "Freeze for at least 1 hour.",
+      "Peel off and enjoy!"
+    ],
+    "taste": "Sweet+Tangy+Cool~30 cal",
+    "cookTime": "PT1H10M",
+    "servings": "4"
+  },
+  "Noodle Crunchwrap": {
+    "desc": "Get ready for a super fun Noodle Crunchwrap! It's like a crispy, cheesy hug for your noodles, all wrapped up in a giant tortilla. You might think noodles in a wrap is a bit wacky, but trust us, it's a yummy adventure for your taste buds!",
+    "ing": [
+      "1 cup cooked ramen noodles",
+      "1 large flour tortilla",
+      "1/4 cup shredded cheddar cheese",
+      "2 tablespoons marinara sauce",
+      "1 tablespoon olive oil"
+    ],
+    "steps": [
+      "Spread marinara on tortilla center.",
+      "Pile noodles and cheese in middle.",
+      "Fold tortilla edges to make a square.",
+      "Cook in oil until golden and crispy."
+    ],
+    "taste": "Cheesy+Noodley+Crispy~450 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Flapjack Pizzas": {
+    "desc": "Flapjack Pizzas are a super fun way to eat your favorite breakfast treat for dessert! We're taking yummy pancakes and turning them into tiny \"pizzas\" with sweet toppings. It's weird because it's not real pizza, but it's good because it's delicious and you get to choose your own toppings!",
+    "ing": [
+      "1 cup pancake mix",
+      "3/4 cup milk",
+      "1/2 cup chocolate chips",
+      "1/4 cup mini marshmallows",
+      "2 tbsp syrup"
+    ],
+    "steps": [
+      "Mix pancake mix and milk.",
+      "Cook small pancakes on griddle.",
+      "Top warm pancakes with chocolate and marshmallows.",
+      "Microwave for 15 seconds until melted.",
+      "Drizzle with syrup."
+    ],
+    "taste": "Sweet+Fruity+Fun ~250 cal",
+    "cookTime": "PT15M",
+    "servings": "4"
+  },
+  "Cheeseburger Crunchwich": {
+    "desc": "Get ready for the Cheeseburger Crunchwich, a super fun way to eat your favorite burger flavors! It's weird because we're putting potato chips right inside, but that salty crunch with the cheesy beef is totally delicious. It's like a party in your mouth!",
+    "ing": [
+      "1 tbsp olive oil",
+      "1/4 lb ground beef",
+      "1/4 cup shredded cheddar cheese",
+      "2 slices white bread",
+      "1 tbsp ketchup",
+      "1/4 cup potato chips"
+    ],
+    "steps": [
+      "Heat oil in a pan over medium heat.",
+      "Cook beef until browned; drain fat.",
+      "Stir in cheese and ketchup.",
+      "Spread beef mix on one bread slice.",
+      "Top with potato chips and other bread slice.",
+      "Grill sandwich until golden brown."
+    ],
+    "taste": "Savory+Crunchy+Cheesy~450 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Nugget Burrito Rolls": {
+    "desc": "Do you love chicken nuggets AND burritos? Well, get ready for a super fun mash-up! These Nugget Burrito Rolls are a delicious and easy snack that combines all your favorites into one yummy bite. It might sound a little silly, but trust us, it's so good!",
+    "ing": [
+      "6 frozen chicken nuggets",
+      "2 small flour tortillas",
+      "1/4 cup shredded cheddar cheese",
+      "2 tbsp ketchup",
+      "1 tbsp ranch dressing"
+    ],
+    "steps": [
+      "Cook nuggets according to package.",
+      "Warm tortillas in microwave for 15 seconds.",
+      "Place 3 nuggets on each tortilla.",
+      "Top with cheese, ketchup, and ranch.",
+      "Roll up tightly like a burrito."
+    ],
+    "taste": "Cheesy+Savory+Fun! ~350 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Cheesy Mac Muffins": {
+    "desc": "These Cheesy Mac Muffins are like your favorite macaroni and cheese, but in a fun, grab-and-go muffin shape! They're super yummy and easy to eat, perfect for little hands. You'll love how crispy they get on the outside and gooey on the inside!",
+    "ing": [
+      "1 cup cooked macaroni",
+      "1/2 cup shredded cheddar cheese",
+      "1/4 cup milk",
+      "1 egg",
+      "Pinch of salt",
+      "Pinch of pepper"
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C).",
+      "Mix all ingredients in a bowl.",
+      "Spoon into greased muffin tin.",
+      "Bake for 15-20 minutes."
+    ],
+    "taste": "Cheesy++ Crispy+ ~250 cal",
+    "cookTime": "PT25M",
+    "servings": "6"
+  },
+  "Pup-on-a-Stick Bites": {
+    "desc": "These \"Pup-on-a-Stick Bites\" are like a mini hot dog on a stick, but instead of the usual corn dog, we're using a yummy pretzel! It's super fun to eat and a little bit salty, a little bit savory. It might seem weird to put a hot dog in a pretzel, but trust us, it's a delicious combo!",
+    "ing": [
+      "1 hot dog",
+      "1 pretzel stick",
+      "1 tbsp cream cheese",
+      "1 tsp mustard",
+      "1 pinch salt"
+    ],
+    "steps": [
+      "Slice hot dog into 3 small pieces.",
+      "Carefully push pretzel stick through hot dog pieces.",
+      "Spread cream cheese on hot dog.",
+      "Drizzle mustard on top."
+    ],
+    "taste": "Savory+Salty+Fun!~90 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Pizza Pocket Bombs": {
+    "desc": "Get ready for a cheesy, saucy explosion in every bite! These Pizza Pocket Bombs are like tiny pizzas you can hold, perfect for a fun snack or a quick lunch. They're weird because they're not flat, but super good because all the yummy pizza goodness is packed inside!",
+    "ing": [
+      "1 can (8 oz) crescent roll dough",
+      "1/2 cup pizza sauce",
+      "1/2 cup shredded mozzarella cheese",
+      "1/4 cup mini pepperoni",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C).",
+      "Unroll crescent dough; separate into triangles.",
+      "Spoon sauce, cheese, pepperoni onto dough.",
+      "Roll up dough, pinching edges to seal.",
+      "Brush with olive oil. Bake 10-12 mins."
+    ],
+    "taste": "Cheesy+Savory+Warm~250 cal",
+    "cookTime": "PT20M",
+    "servings": "8"
+  },
+  "Crispy Noodle Wok": {
+    "desc": "Get ready for a super fun meal that's crunchy and yummy! We're taking instant noodles and making them extra crispy, then mixing them with tasty veggies and sauce in a wok. It's weird because the noodles are crunchy, not soft, but so good you'll want more!",
+    "ing": [
+      "2 blocks instant ramen noodles (without seasoning)",
+      "1 tbsp vegetable oil",
+      "1 cup mixed frozen veggies",
+      "2 tbsp soy sauce",
+      "1 tbsp honey",
+      "1/4 cup water"
+    ],
+    "steps": [
+      "Cook noodles until soft, then drain well.",
+      "Heat oil in a wok, add noodles, press flat.",
+      "Cook until super crispy and golden brown.",
+      "Add veggies, soy sauce, honey, and water.",
+      "Stir-fry until veggies are tender."
+    ],
+    "taste": "Crunchy+Sweet+Savory~350 cal",
+    "cookTime": "PT15M",
+    "servings": "2"
+  },
+  "Mini Parm Towers": {
+    "desc": "These Mini Parm Towers are like tiny lasagnas stacked up, but way easier to make! You get all the yummy cheesy, tomatoey goodness in a fun little bite-sized tower that's weirdly awesome. It's a great way to eat your veggies and cheese at the same time!",
+    "ing": [
+      "1 medium zucchini, sliced into 1/4 inch rounds",
+      "1/2 cup marinara sauce",
+      "1/4 cup shredded mozzarella cheese",
+      "1/4 cup grated Parmesan cheese",
+      "1/4 teaspoon dried oregano"
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C).",
+      "Arrange zucchini slices on a baking sheet.",
+      "Top each with sauce, mozzarella, and Parmesan.",
+      "Sprinkle with oregano.",
+      "Bake for 10-12 minutes until cheese is bubbly."
+    ],
+    "taste": "Cheesy+Tomatoey+Savory~150 cal",
+    "cookTime": "PT20M",
+    "servings": "2"
+  },
+  "Sloppy Croissant Bombs": {
+    "desc": "Get ready for a messy, cheesy, and super fun snack! These Sloppy Croissant Bombs are like a delicious hug of savory meat and flaky croissant, all in one bite. It's weird because croissants are usually fancy, but here they're making a yummy, gooey party in your mouth!",
+    "ing": [
+      "1 lb ground beef",
+      "1 cup sloppy joe sauce",
+      "1 (8 oz) can crescent rolls",
+      "1/2 cup shredded cheddar cheese",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Brown beef in oil, drain.",
+      "Stir in sloppy joe sauce.",
+      "Unroll crescent dough, separate.",
+      "Spoon meat, sprinkle cheese on each.",
+      "Roll up each crescent.",
+      "Bake at 375°F for 12-15 min."
+    ],
+    "taste": "Savory+Cheesy+Messy~350 cal",
+    "cookTime": "PT25M",
+    "servings": "4"
+  },
+  "Bacon Mac Bombs": {
+    "desc": "Get ready for a cheesy, crispy explosion of flavor! These Bacon Mac Bombs are super fun little bites of macaroni and cheese wrapped in bacon, making them perfectly weird and wonderfully delicious for everyone. It's like your favorite comfort food got a crunchy, savory upgrade!",
+    "ing": [
+      "1 cup cooked macaroni & cheese",
+      "6 slices bacon",
+      "1/4 cup shredded cheddar cheese",
+      "2 tbsp breadcrumbs",
+      "1 tsp oil"
+    ],
+    "steps": [
+      "Scoop mac & cheese into 6 small balls.",
+      "Wrap each ball with a bacon slice.",
+      "Roll in breadcrumbs and cheddar.",
+      "Fry in oil until bacon is crispy."
+    ],
+    "taste": "Cheesy+Crispy+Savory~250 cal",
+    "cookTime": "PT15M",
+    "servings": "6"
+  },
+  "Fire Honey Tenders": {
+    "desc": "Get ready for a flavor explosion with these Fire Honey Tenders! They're super crispy chicken strips coated in a sweet and spicy honey sauce that will make your taste buds tingle. It might sound a little crazy, but trust us, it's a delicious adventure!",
+    "ing": [
+      "1 lb chicken tenders",
+      "1 cup cornflakes, crushed",
+      "1/4 cup honey",
+      "1 tbsp hot sauce (like sriracha)",
+      "1/2 tsp garlic powder",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Coat chicken with crushed cornflakes.",
+      "Bake chicken for 15-20 minutes.",
+      "Mix honey, hot sauce, garlic, and salt.",
+      "Toss cooked tenders in sauce."
+    ],
+    "taste": "Sweet + Spicy + Crispy ~350 cal",
+    "cookTime": "PT25M",
+    "servings": "4"
+  },
+  "Loaded Spud Boats": {
+    "desc": "Get ready for a yummy adventure with Loaded Spud Boats! We're scooping out fluffy potato insides and filling them with cheesy, bacony goodness. It's like a tiny, tasty treasure chest you can eat, and it's weird-but-good because potatoes are boats for all your favorite toppings!",
+    "ing": [
+      "2 large baking potatoes",
+      "1/4 cup shredded cheddar cheese",
+      "2 slices cooked bacon, crumbled",
+      "2 tablespoons sour cream",
+      "1 tablespoon milk",
+      "Pinch of salt and pepper"
+    ],
+    "steps": [
+      "Bake potatoes until soft.",
+      "Cut potatoes in half and scoop out insides.",
+      "Mash insides with cheese, bacon, sour cream, milk.",
+      "Spoon mixture back into potato skins.",
+      "Bake until warm and bubbly."
+    ],
+    "taste": "Cheesy, savory, crispy +++ ~350 cal",
+    "cookTime": "PT45M",
+    "servings": "2"
+  },
+  "Crispy Beef Pillows": {
+    "desc": "Get ready for a super fun snack! These Crispy Beef Pillows are like tiny, crunchy surprises filled with yummy beef. They're weird because they're little pockets, but good because they're so tasty and easy to eat!",
+    "ing": [
+      "1 cup cooked ground beef",
+      "1/2 cup shredded cheddar cheese",
+      "1/4 teaspoon garlic powder",
+      "8 small wonton wrappers",
+      "2 tablespoons vegetable oil"
+    ],
+    "steps": [
+      "Mix beef, cheese, and garlic powder.",
+      "Spoon beef mix onto wonton wrappers.",
+      "Fold wrappers into triangles; pinch edges.",
+      "Fry in oil until golden and crispy."
+    ],
+    "taste": "Savory+Crunchy+Cheesy~250 cal",
+    "cookTime": "PT15M",
+    "servings": "4"
+  },
+  "K-BBQ Power Bowl": {
+    "desc": "Get ready for a super yummy K-BBQ Power Bowl! It's like a fun Korean barbecue party in a bowl, with tasty rice, yummy meat, and crunchy veggies all mixed together. It might look a little different, but it's super good and you'll want more!",
+    "ing": [
+      "1 cup cooked white rice",
+      "1/2 cup cooked ground beef",
+      "1/4 cup shredded carrots",
+      "1/4 cup chopped cucumber",
+      "1 tbsp soy sauce",
+      "1 tsp sesame oil"
+    ],
+    "steps": [
+      "Put rice in a bowl.",
+      "Add ground beef on top.",
+      "Arrange carrots and cucumber.",
+      "Drizzle with soy sauce and sesame oil."
+    ],
+    "taste": "Savory+Sweet+Crunchy ~350 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Popcorn Shrimp Tacos": {
+    "desc": "Get ready for a super fun twist on tacos! We're taking crispy, yummy popcorn shrimp and putting it in a soft taco shell with some cool toppings. It might sound a little different, but it's a delicious and crunchy adventure for your taste buds!",
+    "ing": [
+      "1 cup cooked popcorn shrimp",
+      "4 small flour tortillas",
+      "1/4 cup shredded lettuce",
+      "2 tbsp ranch dressing",
+      "2 tbsp chopped tomatoes"
+    ],
+    "steps": [
+      "Warm tortillas in a pan or microwave.",
+      "Divide popcorn shrimp among tortillas.",
+      "Top with lettuce, tomatoes, and ranch.",
+      "Fold and enjoy your yummy tacos!"
+    ],
+    "taste": "Crunchy+Creamy+Tangy~350 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Cheesy Tuna Volcano": {
+    "desc": "Get ready for a cheesy explosion with our Tuna Volcano! We're talking about yummy tuna and gooey cheese bubbling up like a real volcano, but way tastier. It's super fun to make and even more fun to eat, perfect for a quick, cheesy adventure!",
+    "ing": [
+      "1 can (5 oz) tuna, drained",
+      "1/4 cup mayonnaise",
+      "1/4 cup shredded cheddar cheese",
+      "2 slices bread",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Mix tuna, mayo, and half the cheese.",
+      "Butter one side of each bread slice.",
+      "Spoon tuna mix onto unbuttered bread.",
+      "Top with remaining cheese.",
+      "Cook in pan until golden and melty."
+    ],
+    "taste": "Cheesy+Tuna+Warm~350 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Salmon Sushi Bowl": {
+    "desc": "This yummy Salmon Sushi Bowl is like a deconstructed sushi roll in a bowl! It's super fun to eat and a great way to enjoy delicious salmon and rice without all the rolling. It might seem a little unusual, but it tastes so good, you'll want more!",
+    "ing": [
+      "1 cup cooked rice",
+      "4 oz cooked salmon, flaked",
+      "1/4 cup chopped cucumber",
+      "1 tbsp soy sauce",
+      "1 tsp sesame seeds"
+    ],
+    "steps": [
+      "Put cooked rice in a bowl.",
+      "Top rice with flaked salmon.",
+      "Add chopped cucumber.",
+      "Drizzle with soy sauce.",
+      "Sprinkle with sesame seeds."
+    ],
+    "taste": "Fishy+Savory+Fresh~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Fish + Chip Cups": {
+    "desc": "Get ready for a super fun snack that's like a tiny fish and chips party in a cup! We're taking crunchy chips and yummy fish sticks, then baking them together for a warm, crispy treat. It's a silly way to eat your fish, but so delicious!",
+    "ing": [
+      "1 cup potato chips, crushed",
+      "4 frozen fish sticks",
+      "1/4 cup shredded cheddar cheese",
+      "2 tbsp ketchup",
+      "1 tbsp mayonnaise"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Crush chips and divide into 4 muffin cups.",
+      "Place one fish stick in each cup.",
+      "Top with cheese. Bake 10-12 minutes.",
+      "Mix ketchup and mayo for dipping sauce."
+    ],
+    "taste": "Salty+Crispy+Cheesy~350 cal",
+    "cookTime": "PT15M",
+    "servings": "4"
+  },
+  "Rainbow Veggie Crunchwrap": {
+    "desc": "Get ready for a colorful adventure in your mouth! This Rainbow Veggie Crunchwrap is like a super-secret burrito filled with crunchy veggies that make a happy rainbow, all wrapped up in a crispy tortilla. It's weird because it's so many veggies, but good because it tastes amazing and is fun to eat!",
+    "ing": [
+      "1 large flour tortilla",
+      "1/4 cup shredded carrots",
+      "1/4 cup shredded purple cabbage",
+      "1/4 cup chopped bell peppers (any color!)",
+      "2 tablespoons cream cheese",
+      "1 small lettuce leaf",
+      "1 tablespoon olive oil"
+    ],
+    "steps": [
+      "Spread cream cheese on the tortilla.",
+      "Pile carrots, cabbage, and peppers in the center.",
+      "Top with the lettuce leaf.",
+      "Fold tortilla edges over the veggies to make a square.",
+      "Heat oil in a pan over medium heat.",
+      "Cook crunchwrap seam-side down until golden.",
+      "Flip and cook other side until crispy."
+    ],
+    "taste": "Crunchy++ Colorful++ Yummy~350 cal",
+    "cookTime": "PT15M",
+    "servings": "1"
+  },
+  "Mushroom Lava Cups": {
+    "desc": "Get ready for a volcanic eruption of flavor with these Mushroom Lava Cups! We're stuffing yummy mushrooms with cheesy goodness and baking them until they bubble like real lava. It's a super cool and tasty snack that's out of this world!",
+    "ing": [
+      "6 large button mushrooms",
+      "1/4 cup shredded mozzarella cheese",
+      "2 tablespoons cream cheese, softened",
+      "1 tablespoon breadcrumbs",
+      "1/4 teaspoon garlic powder"
+    ],
+    "steps": [
+      "Wash mushrooms and carefully remove stems.",
+      "Mix cheeses, breadcrumbs, and garlic powder.",
+      "Spoon mixture into mushroom caps.",
+      "Bake at 375°F (190°C) for 10-12 minutes."
+    ],
+    "taste": "Cheesy, savory, gooey +++ ~150 cal",
+    "cookTime": "PT20M",
+    "servings": "2"
+  },
+  "Green Monster Shells": {
+    "desc": "Get ready for some spooky-fun dinner! These green pasta shells look like something out of a monster movie, but they're secretly packed with yummy veggies and creamy cheese. It's a weird-but-good way to eat your greens and have an adventure at the dinner table!",
+    "ing": [
+      "1 cup large pasta shells",
+      "1 cup frozen spinach",
+      "1/4 cup cream cheese",
+      "1/4 cup grated Parmesan cheese",
+      "1/4 cup milk",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Cook pasta shells until soft.",
+      "Blend spinach, cream cheese, milk.",
+      "Mix in Parmesan, salt, and pepper.",
+      "Spoon green filling into shells."
+    ],
+    "taste": "Creamy + Cheesy + Veggie ~350 cal",
+    "cookTime": "PT20M",
+    "servings": "2"
+  },
+  "Crunchy Rainbow Noodles": {
+    "desc": "Get ready for a noodle party in your mouth! These Crunchy Rainbow Noodles are super colorful and have a fun crunch that makes them extra yummy. It might sound a little silly, but trust us, you'll want to slurp up every last bite of this veggie adventure!",
+    "ing": [
+      "2 cups cooked ramen noodles",
+      "1/2 cup shredded carrots",
+      "1/2 cup shredded purple cabbage",
+      "1/4 cup chopped cucumber",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1/4 cup crushed pretzel sticks"
+    ],
+    "steps": [
+      "Mix noodles, carrots, cabbage, and cucumber.",
+      "Drizzle with soy sauce and sesame oil.",
+      "Toss everything gently to coat.",
+      "Sprinkle crushed pretzels on top."
+    ],
+    "taste": "Crunchy+Sweet+Savory~350 cal estimate",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Zucchini Noodle Bowl": {
+    "desc": "This Zucchini Noodle Bowl is a super cool way to eat your veggies! Instead of regular pasta, we use yummy zucchini \"noodles\" that are fun to slurp. It's a weird-but-good twist on dinner that's light and tasty!",
+    "ing": [
+      "1 large zucchini",
+      "1/4 cup cherry tomatoes, halved",
+      "1 tbsp olive oil",
+      "1/4 tsp garlic powder",
+      "Pinch of salt",
+      "Pinch of pepper"
+    ],
+    "steps": [
+      "Spiralize zucchini into noodles.",
+      "Toss zucchini with oil, garlic, salt, pepper.",
+      "Microwave for 1 minute until warm.",
+      "Stir in the halved cherry tomatoes."
+    ],
+    "taste": "Fresh + Light + Quick ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Lettuce Wrap Tacos": {
+    "desc": "These tacos are a fun twist on a classic, using crunchy lettuce instead of tortillas! It might sound a little different, but the cool lettuce makes them super refreshing and yummy. It's a great way to eat your veggies and still enjoy taco night!",
+    "ing": [
+      "1 head butter lettuce",
+      "1/2 lb ground turkey",
+      "1/4 cup salsa",
+      "1/4 cup shredded cheese",
+      "1/4 cup corn",
+      "1/4 cup black beans"
+    ],
+    "steps": [
+      "Cook turkey until browned.",
+      "Stir in salsa, corn, and black beans.",
+      "Spoon turkey mix into lettuce leaves.",
+      "Top with shredded cheese."
+    ],
+    "taste": "Fresh + Crunchy + Savory ~250 cal",
+    "cookTime": "PT15M",
+    "servings": "2"
+  },
+  "Ghost Pepper Wings": {
+    "desc": "These wings are super spicy, like a fiery dragon, but they're also really yummy and exciting! It's a fun challenge for your taste buds, making you feel like a brave food adventurer.",
+    "ing": [
+      "1 lb chicken wings",
+      "1 tbsp ghost pepper powder",
+      "1/4 cup butter, melted",
+      "1 tsp garlic powder",
+      "1/2 tsp salt",
+      "1/4 cup hot sauce"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Mix all ingredients in a big bowl.",
+      "Spread wings on a baking sheet.",
+      "Bake for 25-30 minutes until crispy."
+    ],
+    "taste": "Fiery +++ ~450 cal",
+    "cookTime": "PT30M",
+    "servings": "2"
+  },
+  "Spicy Sriracha Ramen ️": {
+    "desc": "This ramen is super yummy and a little bit spicy, just like a fun adventure for your taste buds! It's weird because it's a quick noodle soup but tastes like a fancy meal. You'll slurp it all up!",
+    "ing": [
+      "1 pack instant ramen noodles",
+      "1 cup water",
+      "1/2 tsp sriracha sauce",
+      "1/4 cup frozen peas",
+      "1/2 hard-boiled egg, sliced"
+    ],
+    "steps": [
+      "Boil water in a small pot.",
+      "Add noodles and seasoning packet. Cook 2 mins.",
+      "Stir in sriracha and peas.",
+      "Cook 1 more minute. Top with egg."
+    ],
+    "taste": "Spicy+Savory++ ~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Cinnamon French Toast Stack": {
+    "desc": "Get ready for a yummy breakfast adventure with our Cinnamon French Toast Stack! It's like a warm hug for your tummy, made with soft bread dipped in a sweet, cinnamon-y bath, then stacked up high like a delicious tower. It's weird because it's bread for breakfast, but good because it tastes like a cinnamon roll and toast had a delicious baby!",
+    "ing": [
+      "2 slices bread",
+      "1 large egg",
+      "1/4 cup milk",
+      "1 teaspoon cinnamon",
+      "1 tablespoon sugar",
+      "1/2 teaspoon vanilla extract",
+      "1 tablespoon butter"
+    ],
+    "steps": [
+      "Whisk egg, milk, cinnamon, sugar, vanilla.",
+      "Dip bread in mixture, coating both sides.",
+      "Melt butter in pan over medium heat.",
+      "Cook bread 2-3 min per side until golden.",
+      "Stack and serve warm!"
+    ],
+    "taste": "Sweet+Cinnamon+Warm~350 cal",
+    "cookTime": "PT15M",
+    "servings": "1"
+  },
+  "Berry Pancake Tacos": {
+    "desc": "Get ready for a super fun breakfast that's like a party in your mouth! We're taking fluffy pancakes and turning them into yummy tacos, then stuffing them with berries. It's a silly, sweet way to start your day that you'll love!",
+    "ing": [
+      "1 cup pancake mix",
+      "3/4 cup milk",
+      "1 cup mixed berries",
+      "1/4 cup whipped cream",
+      "2 tbsp maple syrup"
+    ],
+    "steps": [
+      "Mix pancake mix and milk in a bowl.",
+      "Cook small pancakes (about 4 inches).",
+      "Fold pancakes in half like a taco.",
+      "Fill with berries, whipped cream, and syrup."
+    ],
+    "taste": "Sweet+Fruity+Fluffy~350 cal",
+    "cookTime": "PT15M",
+    "servings": "2"
+  },
+  "Mango Sticky Rice Bowl": {
+    "desc": "Imagine a warm, sweet, and creamy rice dish that tastes like a tropical dream! This Mango Sticky Rice Bowl is a yummy treat from Thailand, where they mix sweet rice with juicy mangoes and a special coconut sauce. It might sound a little different to have rice for dessert, but trust us, it's super delicious and a fun adventure for your taste buds!",
+    "ing": [
+      "1 cup cooked sticky rice",
+      "1 ripe mango, peeled and sliced",
+      "1/2 cup coconut milk",
+      "2 tablespoons sugar",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Mix coconut milk, sugar, and salt in a bowl.",
+      "Pour coconut sauce over warm sticky rice.",
+      "Gently stir rice and sauce together.",
+      "Top the sticky rice with mango slices."
+    ],
+    "taste": "Sweet+Creamy+Fruity~350 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Tropical Crunch Bowl": {
+    "desc": "Get ready for a taste adventure with our Tropical Crunch Bowl! It's a super colorful mix of yummy fruits and a secret crunchy topping that makes every bite exciting. You might think fruit and crunch is a bit odd, but trust us, it's a delicious surprise your taste buds will love!",
+    "ing": [
+      "1/2 cup chopped mango",
+      "1/2 cup chopped pineapple",
+      "1/4 cup shredded coconut",
+      "1/4 cup granola",
+      "1/4 cup yogurt",
+      "1 tablespoon honey"
+    ],
+    "steps": [
+      "Chop mango and pineapple.",
+      "Mix fruit and yogurt in a bowl.",
+      "Sprinkle with coconut and granola.",
+      "Drizzle with honey."
+    ],
+    "taste": "Sweet+Crunchy+Tropical~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Strawberry Avocado Toast": {
+    "desc": "Get ready for a yummy surprise with Strawberry Avocado Toast! It sounds like a funny combo, but the creamy avocado and sweet strawberries make a super delicious and healthy snack. You'll love how fresh and tasty it is!",
+    "ing": [
+      "1 slice whole wheat toast",
+      "1/4 ripe avocado, mashed",
+      "3-4 fresh strawberries, sliced",
+      "Pinch of salt",
+      "Drizzle of honey (optional)"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Mash avocado and spread on toast.",
+      "Arrange strawberry slices on top.",
+      "Sprinkle with salt and honey."
+    ],
+    "taste": "Sweet+Creamy+Fruity ~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Power Oat Bowl": {
+    "desc": "Get ready for a super-powered breakfast that's as fun to eat as it is good for you! This Power Oat Bowl is like a warm, yummy hug for your tummy, packed with fruity goodness and a surprising crunch that will make you feel like a superhero all morning long. It's a little different, but totally delicious!",
+    "ing": [
+      "1/2 cup rolled oats",
+      "1 cup milk (dairy or non-dairy)",
+      "1/4 cup mixed berries",
+      "1 tablespoon chia seeds",
+      "1 teaspoon honey or maple syrup"
+    ],
+    "steps": [
+      "Combine oats and milk in a microwave-safe bowl.",
+      "Microwave for 1-2 minutes until oats are cooked.",
+      "Stir in berries, chia seeds, and sweetener.",
+      "Enjoy your power-packed breakfast!"
+    ],
+    "taste": "Fruity+Sweet+Warm~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Protein Smoothie Bowl": {
+    "desc": "This isn't your average smoothie! It's a super thick, yummy bowl of fruity goodness that you eat with a spoon, like ice cream for breakfast. It's weird because it's healthy and tastes like a treat, giving you tons of energy to play all day!",
+    "ing": [
+      "1 cup frozen mixed berries",
+      "1/2 banana",
+      "1/2 cup Greek yogurt",
+      "1/4 cup milk",
+      "1 tbsp honey",
+      "1 tbsp chia seeds"
+    ],
+    "steps": [
+      "Put berries, banana, yogurt, milk in blender.",
+      "Blend until super thick and smooth.",
+      "Pour into a bowl.",
+      "Sprinkle with chia seeds and drizzle honey."
+    ],
+    "taste": "Fruity+Sweet+Creamy~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Espresso Overnight Oats": {
+    "desc": "This yummy breakfast is like a hug in a mug, but instead of hot chocolate, it's coffee for grown-ups! It's a super easy way to make a tasty breakfast the night before so you can just grab and go in the morning. It's a little bit weird because it's cold coffee for breakfast, but it's really good and gives you lots of energy!",
+    "ing": [
+      "1/2 cup rolled oats",
+      "1/2 cup milk",
+      "1/4 cup strong brewed coffee",
+      "1 tablespoon maple syrup",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "Mix oats, milk, coffee, maple syrup, vanilla.",
+      "Stir well in a jar or small container.",
+      "Cover and chill in fridge overnight.",
+      "Enjoy cold in the morning!"
+    ],
+    "taste": "Coffee++ Sweet+ Creamy+ ~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Spiced Pumpkin Latte": {
+    "desc": "Imagine a warm hug in a mug, tasting like your favorite pumpkin pie! This yummy drink is a little bit spicy, a little bit sweet, and super creamy, making it a weird-but-good treat that will make you feel cozy inside. It's like a pumpkin patch party for your taste buds!",
+    "ing": [
+      "1 cup milk",
+      "2 tablespoons pumpkin puree",
+      "1 tablespoon sugar",
+      "1/4 teaspoon pumpkin pie spice",
+      "1/4 teaspoon vanilla extract",
+      "Whipped cream (optional)"
+    ],
+    "steps": [
+      "Mix milk, pumpkin, sugar, spice, vanilla.",
+      "Heat gently in a mug or small pot.",
+      "Stir until warm and bubbly.",
+      "Top with whipped cream if you like."
+    ],
+    "taste": "Sweet + Spicy + Creamy ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mexican Hot Chocolate ️": {
+    "desc": "This isn't your grandma's hot chocolate! We're adding a little secret spice to make it warm and tingly, like a cozy hug with a tiny kick. It sounds a little wacky, but trust us, it's super yummy and fun to try something new!",
+    "ing": [
+      "1 cup milk",
+      "2 tablespoons unsweetened cocoa powder",
+      "2 tablespoons sugar",
+      "1/4 teaspoon cinnamon",
+      "tiny pinch of chili powder (optional)"
+    ],
+    "steps": [
+      "Pour milk into a small pot.",
+      "Add cocoa, sugar, cinnamon, and chili.",
+      "Whisk well while heating on low.",
+      "Heat until steamy, not boiling.",
+      "Pour into a mug and enjoy!"
+    ],
+    "taste": "Spicy Sweet Warm +++ ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Cardamom Chai Latte": {
+    "desc": "This yummy Cardamom Chai Latte is like a warm, spicy hug in a mug! It's a special drink with a secret ingredient – cardamom – that makes it taste a little like flowers and a little like cinnamon. It might sound a bit fancy, but it's super easy to make and will warm you up from your toes to your nose!",
+    "ing": [
+      "1 cup milk",
+      "1 chai tea bag",
+      "1/4 teaspoon ground cardamom",
+      "1 tablespoon honey or maple syrup",
+      "Pinch of cinnamon"
+    ],
+    "steps": [
+      "Heat milk in a mug until warm.",
+      "Add chai tea bag to milk.",
+      "Stir in cardamom and honey.",
+      "Let steep for 3-5 minutes.",
+      "Remove tea bag and sprinkle cinnamon."
+    ],
+    "taste": "Sweet+Spicy+Warm ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mango Matcha Energy": {
+    "desc": "This super cool green drink is like a yummy tropical vacation in a cup, but it also gives you a boost of energy to play all day! It's a little bit sweet from the mango and a little bit earthy from the matcha, making a surprisingly delicious and vibrant combo.",
+    "ing": [
+      "1 cup frozen mango chunks",
+      "1/2 cup milk",
+      "1/4 teaspoon matcha powder",
+      "1 tablespoon honey or maple syrup",
+      "1/4 cup water"
+    ],
+    "steps": [
+      "Put all ingredients in a blender.",
+      "Blend until super smooth.",
+      "Pour into a fun glass.",
+      "Enjoy your energy boost!"
+    ],
+    "taste": "Sweet + Fruity + Earthy ~180 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Ginger Lemon Zinger": {
+    "desc": "This zippy drink is like a superhero for your tastebuds, giving you a burst of energy to play all day! It might sound a little spicy with the ginger, but the lemon makes it super yummy and refreshing. It's weird because it's so good for you, but tastes like a special treat!",
+    "ing": [
+      "1 cup water",
+      "1 inch fresh ginger, peeled",
+      "1/2 lemon, juiced",
+      "1 tablespoon honey",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Ask an adult to grate ginger into a mug.",
+      "Squeeze lemon juice into the mug.",
+      "Add honey and a pinch of salt.",
+      "Pour in warm water and stir well.",
+      "Enjoy your zinger!"
+    ],
+    "taste": "Zesty+Spicy+Sweet+Refreshing~45 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Tropical Storm Boost": {
+    "desc": "Get ready for a super fun burst of energy with Tropical Storm Boost! This drink is like a sweet, sunny day in a glass, with a surprise fizz that makes your tastebuds tingle. It's a little bit wacky but totally yummy!",
+    "ing": [
+      "1/2 cup orange juice",
+      "1/4 cup pineapple juice",
+      "1 tablespoon lime juice",
+      "1/4 teaspoon ground ginger",
+      "1/2 cup sparkling water"
+    ],
+    "steps": [
+      "Pour orange juice into a glass.",
+      "Add pineapple and lime juice.",
+      "Stir in ground ginger.",
+      "Top with sparkling water."
+    ],
+    "taste": "Fruity+Sweet+Fizz~80 cal",
+    "cookTime": "PT3M",
+    "servings": "1"
+  },
+  "Jalapeño Popcorn Bites ️": {
+    "desc": "Get ready for a super fun and kinda spicy snack that's crunchy and cheesy! We're making popcorn taste like a jalapeño popper, which sounds a little weird, but trust us, it's super yummy and a great treat for movie night!",
+    "ing": [
+      "1/2 cup popcorn kernels",
+      "2 tbsp olive oil",
+      "1 tbsp cream cheese (softened)",
+      "1 tsp pickled jalapeño juice",
+      "1/4 tsp garlic powder",
+      "1/4 cup shredded cheddar cheese",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Pop popcorn kernels in oil.",
+      "In a bowl, mix cream cheese, jalapeño juice, garlic powder.",
+      "Add warm popcorn to cream cheese mix and stir.",
+      "Sprinkle with cheddar cheese and salt."
+    ],
+    "taste": "Spicy+Cheesy+Crunchy ~180 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Chili Lime Mango Sticks": {
+    "desc": "Get ready for a super yummy and a little bit wacky snack! These mango sticks are juicy, sweet, and then BAM – a little zingy and spicy kick! It’s like a tropical party in your mouth with a tiny firework show, and you'll love how the flavors dance together.",
+    "ing": [
+      "1 ripe mango, peeled and sliced into sticks",
+      "1 tbsp lime juice",
+      "1/2 tsp chili powder",
+      "1/4 tsp salt",
+      "Pinch of sugar (optional)"
+    ],
+    "steps": [
+      "Cut mango into fun sticks.",
+      "Put mango sticks in a bowl.",
+      "Sprinkle lime juice over mango.",
+      "Add chili powder and salt.",
+      "Gently mix everything together."
+    ],
+    "taste": "Sweet+Tangy+Spicy! ~120 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Buffalo Cauli Bites ️": {
+    "desc": "Get ready for a veggie adventure with these Buffalo Cauli Bites! They're like tiny, spicy chicken wings but made from cauliflower, which sounds super weird but tastes surprisingly yummy. It's a fun way to eat your veggies with a kick!",
+    "ing": [
+      "1 head cauliflower, chopped",
+      "1/2 cup flour",
+      "1/2 cup water",
+      "1/2 cup buffalo sauce",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Mix flour and water for batter.",
+      "Dip cauliflower in batter, then bake 15 min.",
+      "Toss with buffalo sauce, bake 10 more min."
+    ],
+    "taste": "Spicy+Crunchy+Yummy~150 cal",
+    "cookTime": "PT25M",
+    "servings": "4"
+  },
+  "Banana PB Power Wraps": {
+    "desc": "These Banana PB Power Wraps are a super fun and yummy snack that will give you energy to play all day! It might sound a little silly to put peanut butter and bananas in a tortilla, but trust us, it's a delicious and healthy treat. It's like a mini dessert that's good for you!",
+    "ing": [
+      "1 small whole wheat tortilla",
+      "1 ripe banana",
+      "2 tablespoons peanut butter",
+      "1 teaspoon honey (optional)",
+      "1 pinch cinnamon (optional)"
+    ],
+    "steps": [
+      "Lay tortilla flat.",
+      "Spread peanut butter evenly on tortilla.",
+      "Peel banana and place at one edge.",
+      "Drizzle honey and sprinkle cinnamon.",
+      "Roll up the tortilla tightly.",
+      "Slice into fun pinwheels."
+    ],
+    "taste": "Sweet+Nutty+Soft ~280 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Granola Energy Balls": {
+    "desc": "These Granola Energy Balls are super yummy little snacks that give you a boost of energy! They're chewy and sweet, kind of like a cookie dough bite, but packed with good stuff to help you run and play. You'll love how easy they are to make and eat!",
+    "ing": [
+      "1 cup rolled oats",
+      "1/2 cup peanut butter",
+      "1/4 cup honey",
+      "1/4 cup mini chocolate chips",
+      "1/4 cup shredded coconut"
+    ],
+    "steps": [
+      "Mix oats, peanut butter, and honey in a bowl.",
+      "Stir in chocolate chips and coconut.",
+      "Roll mixture into small balls.",
+      "Chill for 15 minutes."
+    ],
+    "taste": "Sweet + Chewy + Nutty ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "12"
+  },
+  "Yogurt Almond Bark": {
+    "desc": "This super cool bark is like a frozen treat that's both creamy and crunchy! We use yogurt to make it tangy and sweet, then add almonds for a satisfying crunch. It's a weird-but-good snack that gives you energy to play!",
+    "ing": [
+      "1 cup plain Greek yogurt",
+      "2 tablespoons honey",
+      "1/4 teaspoon vanilla extract",
+      "1/4 cup chopped almonds",
+      "1 tablespoon mini chocolate chips"
+    ],
+    "steps": [
+      "Line a tray with parchment paper.",
+      "Mix yogurt, honey, and vanilla.",
+      "Spread yogurt onto paper in a thin layer.",
+      "Sprinkle almonds and chocolate chips.",
+      "Freeze for 2 hours until solid.",
+      "Break into yummy pieces."
+    ],
+    "taste": "Sweet+Tangy+Crunchy ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Mini Veggie Cups": {
+    "desc": "These tiny veggie cups are like a secret garden in your snack! We're mixing yummy veggies with a creamy dip to make little bites that are super fun to eat. It might sound a little different, but it's a yummy way to get your greens!",
+    "ing": [
+      "1/2 cup Greek yogurt",
+      "1/4 cup shredded carrot",
+      "1/4 cup finely chopped cucumber",
+      "2 tablespoons finely chopped bell pepper",
+      "1 pinch salt",
+      "1 pinch black pepper",
+      "12 mini phyllo shells"
+    ],
+    "steps": [
+      "Mix yogurt, carrot, cucumber, bell pepper.",
+      "Add salt and pepper to the mix.",
+      "Spoon veggie mix into phyllo shells.",
+      "Serve immediately."
+    ],
+    "taste": "Creamy+Crunchy+Fresh~30 cal",
+    "cookTime": "PT5M",
+    "servings": "6"
+  },
+  "Cottage Cheese Crisps": {
+    "desc": "Get ready for a super crunchy, cheesy snack that's easy to make! These crisps are like little toasted cheese bites, but they start with cottage cheese, which sounds a bit funny, but trust us, they're yummy! They get all crispy and golden in the oven, perfect for a quick and healthy treat.",
+    "ing": [
+      "1/2 cup cottage cheese",
+      "1/4 teaspoon garlic powder",
+      "Pinch of black pepper"
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C).",
+      "Mix cottage cheese with garlic powder and pepper.",
+      "Spoon small dollops onto parchment-lined tray.",
+      "Flatten each dollop into a thin circle.",
+      "Bake for 20-25 minutes until golden and crisp."
+    ],
+    "taste": "Cheesy+Crunchy+Savory ~40 cal",
+    "cookTime": "PT25M",
+    "servings": "1"
+  },
+  "Mango Coconut Skewers": {
+    "desc": "These Mango Coconut Skewers are like a tropical party on a stick! Sweet mango chunks meet chewy coconut flakes for a yummy, healthy snack that's fun to eat and super tasty. It's a sunshine treat!",
+    "ing": [
+      "1 ripe mango, peeled and cubed",
+      "1/4 cup shredded unsweetened coconut",
+      "6 small wooden skewers"
+    ],
+    "steps": [
+      "Gently thread mango cubes onto skewers.",
+      "Roll each skewer in shredded coconut.",
+      "Place on a plate.",
+      "Enjoy right away!"
+    ],
+    "taste": "Sweet+Tropical+Chewy~80 cal",
+    "cookTime": "PT5M",
+    "servings": "3"
+  },
+  "Spicy Korean Tacos ️": {
+    "desc": "These aren't your average tacos! We're mixing yummy Korean BBQ flavors with a little kick in a crunchy taco shell. It's a super fun and tasty way to try something new, even if it sounds a little wacky!",
+    "ing": [
+      "1 lb ground beef",
+      "1/4 cup soy sauce",
+      "2 tbsp brown sugar",
+      "1 tbsp sriracha (optional)",
+      "1 tsp ginger, grated",
+      "8 hard taco shells",
+      "1 cup shredded lettuce",
+      "1/2 cup shredded carrots"
+    ],
+    "steps": [
+      "Brown beef in a pan, drain fat.",
+      "Stir in soy sauce, brown sugar, sriracha, ginger.",
+      "Cook until sauce thickens.",
+      "Fill taco shells with beef, lettuce, and carrots."
+    ],
+    "taste": "Sweet + Spicy + Crunchy ~450 cal",
+    "cookTime": "PT15M",
+    "servings": "4"
+  },
+  "Nashville Hot Sliders": {
+    "desc": "These tiny chicken sandwiches pack a big, spicy punch that's super fun to eat! They might make your tongue tingle, but the cool pickles and soft buns make the hot chicken a crazy delicious combo you won't forget. It's like a flavor adventure in every bite!",
+    "ing": [
+      "1 cup cooked chicken, shredded",
+      "4 mini slider buns",
+      "1 tbsp hot sauce",
+      "1 tbsp butter, melted",
+      "4 pickle slices",
+      "1/4 tsp cayenne pepper"
+    ],
+    "steps": [
+      "Mix chicken, hot sauce, butter, and cayenne.",
+      "Spoon chicken mix onto slider buns.",
+      "Top each with a pickle slice.",
+      "Serve immediately and enjoy!"
+    ],
+    "taste": "Spicy +++ Tangy ~300 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Volcano Burrito": {
+    "desc": "Get ready for a flavor explosion with the Volcano Burrito! This super fun and fiery burrito is packed with yummy ingredients that will make your taste buds tingle. It's a little bit spicy, a lot delicious, and totally unique!",
+    "ing": [
+      "1 large tortilla",
+      "1/4 cup cooked rice",
+      "1/4 cup cooked ground beef",
+      "2 tablespoons shredded cheese",
+      "1 tablespoon hot sauce"
+    ],
+    "steps": [
+      "Warm tortilla in microwave.",
+      "Spoon rice, beef, cheese onto tortilla.",
+      "Drizzle hot sauce over ingredients.",
+      "Fold tortilla into a burrito."
+    ],
+    "taste": "Spicy+++ Cheesy+ ~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Power Burrito Bowl": {
+    "desc": "This Power Burrito Bowl is like a super-powered deconstructed burrito, but in a bowl! It's a little weird because it's not wrapped up, but it's super good and gives you lots of energy for playing and learning. You get to mix all the yummy ingredients together yourself!",
+    "ing": [
+      "1 cup cooked brown rice",
+      "1/2 cup canned black beans, rinsed",
+      "1/4 cup cooked corn",
+      "1/4 avocado, diced",
+      "1 tbsp salsa",
+      "1 tsp lime juice"
+    ],
+    "steps": [
+      "Scoop rice into a bowl.",
+      "Add black beans and corn.",
+      "Top with diced avocado and salsa.",
+      "Squeeze lime juice over everything."
+    ],
+    "taste": "Zesty+Fresh+Filling~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Quinoa Power Plate": {
+    "desc": "This Quinoa Power Plate is like a super-powered bowl of tiny, fluffy grains that make you strong! It might look a little funny with all the colorful veggies, but it tastes so yummy and gives you lots of energy to play all day.",
+    "ing": [
+      "1/2 cup cooked quinoa",
+      "1/4 cup chopped cucumber",
+      "1/4 cup chopped bell pepper",
+      "1 tablespoon olive oil",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Combine quinoa, cucumber, and bell pepper.",
+      "Drizzle with olive oil.",
+      "Sprinkle with a pinch of salt.",
+      "Stir gently to mix."
+    ],
+    "taste": "Savory+Crunchy+Fresh ~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Greek Yogurt Power Toast": {
+    "desc": "Get ready for a super yummy and super silly breakfast with Greek Yogurt Power Toast! It might sound a little strange to put yogurt on toast, but it's like a creamy, fruity, crunchy party in your mouth that gives you energy to play all day.",
+    "ing": [
+      "1 slice whole-wheat bread",
+      "2 tablespoons Greek yogurt",
+      "1/4 cup sliced strawberries",
+      "1 teaspoon honey",
+      "1 tablespoon granola"
+    ],
+    "steps": [
+      "Toast the bread until golden.",
+      "Spread Greek yogurt on the toast.",
+      "Arrange sliced strawberries on top.",
+      "Drizzle with honey.",
+      "Sprinkle granola for crunch."
+    ],
+    "taste": "Sweet + Creamy + Crunchy ~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Lettuce Wrap Burger": {
+    "desc": "This is a super yummy and healthy burger, but instead of a bun, we use a big piece of lettuce! It's a little different, but the crunchy lettuce makes every bite taste fresh and delicious. You'll love how good it feels to eat a burger this way!",
+    "ing": [
+      "1/4 lb ground beef",
+      "1 large lettuce leaf",
+      "1 slice cheese",
+      "1 tbsp ketchup",
+      "1 pickle slice"
+    ],
+    "steps": [
+      "Cook beef patty until done.",
+      "Place cheese on hot patty.",
+      "Put patty on lettuce leaf.",
+      "Top with ketchup and pickle.",
+      "Fold lettuce and eat!"
+    ],
+    "taste": "Fresh+Juicy+Crunchy~250 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Cauli-Crust Pizza": {
+    "desc": "Get ready for a pizza party with a secret ingredient! This Cauli-Crust Pizza is super yummy and sneaky healthy because the crust is made from cauliflower. It might sound weird, but it tastes amazing and you won't even miss the regular crust!",
+    "ing": [
+      "1 head cauliflower, riced",
+      "1/2 cup shredded mozzarella cheese",
+      "1 egg",
+      "1/4 cup tomato sauce",
+      "1/4 cup shredded mozzarella cheese",
+      "Your favorite toppings (like pepperoni or veggies!)"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Mix riced cauliflower, 1/2 cup cheese, and egg.",
+      "Press mixture onto a baking sheet in a circle.",
+      "Bake crust for 15-20 minutes until golden.",
+      "Spread sauce, 1/4 cup cheese, and toppings.",
+      "Bake for 5-10 more minutes until cheese melts."
+    ],
+    "taste": "Cheesy++ Crunchy+ ~250 cal",
+    "cookTime": "PT40M",
+    "servings": "2"
+  },
+  "Apple Cinnamon Crepes": {
+    "desc": "Imagine a super thin pancake, but instead of just butter, it's filled with yummy, warm apples and a sprinkle of cinnamon! It's like a warm apple pie hug wrapped in a soft blanket, perfect for breakfast or a sweet treat. It might sound fancy, but it's really easy to make and tastes amazing!",
+    "ing": [
+      "1 cup flour",
+      "2 eggs",
+      "1 cup milk",
+      "2 apples, diced",
+      "1 tsp cinnamon",
+      "2 tbsp sugar",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Whisk flour, eggs, and milk for crepe batter.",
+      "Cook thin crepes in a pan.",
+      "Sauté apples, cinnamon, and sugar.",
+      "Fill crepes with apple mix and fold."
+    ],
+    "taste": "Sweet+Warm+Apple~250 cal",
+    "cookTime": "PT20M",
+    "servings": "4"
+  },
+  "Caramel Apple Float": {
+    "desc": "This is like a super-duper fun apple pie in a cup, but even better because it has ice cream and caramel! It's a wacky drink that tastes like a yummy dessert, perfect for a special treat. Get ready for a taste adventure!",
+    "ing": [
+      "1 cup apple juice",
+      "2 scoops vanilla ice cream",
+      "2 tablespoons caramel sauce",
+      "Whipped cream for topping",
+      "1 maraschino cherry"
+    ],
+    "steps": [
+      "Pour apple juice into a tall glass.",
+      "Add two scoops of vanilla ice cream.",
+      "Drizzle generously with caramel sauce.",
+      "Top with a swirl of whipped cream.",
+      "Place a cherry on top."
+    ],
+    "taste": "Sweet + creamy + apple ~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Lemon Zinger Soda": {
+    "desc": "Get ready for a super sour, fizzy, and fun drink that will make your taste buds tingle! This Lemon Zinger Soda is like a lemonade party in your mouth, but with an extra kick that's weirdly wonderful and will definitely wake you up!",
+    "ing": [
+      "1/2 cup fresh lemon juice",
+      "1/4 cup sugar",
+      "1 cup cold water",
+      "1/2 cup club soda",
+      "Lemon slices for garnish"
+    ],
+    "steps": [
+      "Squeeze fresh lemon juice into a glass.",
+      "Stir in sugar until it dissolves.",
+      "Add cold water and mix well.",
+      "Top with club soda for fizz.",
+      "Garnish with a lemon slice."
+    ],
+    "taste": "Sour+++ Fizzy+ Sweet+ ~80 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Tamarind Mango Punch": {
+    "desc": "This super-duper sour and sweet punch is like a tropical party in your mouth! It might sound a little bit wild with tamarind, but trust us, it's a yummy, tangy adventure that will make your taste buds tingle and ask for more.",
+    "ing": [
+      "1 cup mango chunks (fresh or frozen)",
+      "1/4 cup tamarind paste",
+      "2 tablespoons sugar",
+      "2 cups cold water",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Put mango, tamarind, sugar, water in blender.",
+      "Blend until smooth.",
+      "Pour into glasses with ice.",
+      "Stir and enjoy your tangy drink!"
+    ],
+    "taste": "Sweet+Sour+Tropical+++ ~150 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Cookies and Cream Shake": {
+    "desc": "Get ready for a super yummy Cookies and Cream Shake! It's like your favorite ice cream in a drink, with crunchy cookie bits mixed in. It might sound a little silly to drink cookies, but trust us, it's a delicious treat!",
+    "ing": [
+      "1 cup vanilla ice cream",
+      "1/2 cup milk",
+      "4 chocolate sandwich cookies",
+      "1 tablespoon chocolate syrup"
+    ],
+    "steps": [
+      "Break cookies into pieces.",
+      "Add all ingredients to a blender.",
+      "Blend until smooth.",
+      "Pour into a tall glass."
+    ],
+    "taste": "Sweet + Creamy + Crunchy ~350 cal",
+    "cookTime": "PT3M",
+    "servings": "1"
+  },
+  "Vanilla Cloud Frappé ️": {
+    "desc": "Get ready for a super yummy, fluffy vanilla treat that tastes like a cloud! It's like a milkshake but extra frosty and fun, making your taste buds dance with delight. You'll love how creamy and sweet it is!",
+    "ing": [
+      "1 cup milk",
+      "1 scoop vanilla ice cream",
+      "1/4 tsp vanilla extract",
+      "1 cup ice",
+      "Whipped cream for topping"
+    ],
+    "steps": [
+      "Combine milk, ice cream, vanilla, ice.",
+      "Blend until smooth and frosty.",
+      "Pour into a tall glass.",
+      "Top with whipped cream."
+    ],
+    "taste": "Sweet + Creamy + Frosty ~250 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Watermelon Slushie": {
+    "desc": "Get ready for a super cool and yummy treat! This watermelon slushie is like a sweet, icy hug for your tastebuds, perfect for a sunny day. It's a fun and fruity drink that tastes like summer in a cup!",
+    "ing": [
+      "4 cups seedless watermelon, cubed and frozen",
+      "1/2 cup cold water",
+      "1 tablespoon lime juice",
+      "1 tablespoon honey (optional)"
+    ],
+    "steps": [
+      "Put frozen watermelon into a blender.",
+      "Add water, lime juice, and honey.",
+      "Blend until smooth and slushy.",
+      "Pour into a fun glass and enjoy!"
+    ],
+    "taste": "Sweet + Refreshing + Icy ~120 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Cookie Dough Sundae Bites": {
+    "desc": "Get ready for a super yummy treat that’s like a mini ice cream sundae, but without the melting! These bites are safe to eat raw, packed with chocolate chips, and so fun to pop in your mouth. It's weird because it's cookie dough you don't bake, but it's oh-so-good!",
+    "ing": [
+      "1/2 cup butter, softened",
+      "1/4 cup brown sugar",
+      "1/4 teaspoon vanilla extract",
+      "1 cup all-purpose flour (heat-treated)",
+      "2 tablespoons milk",
+      "1/2 cup mini chocolate chips"
+    ],
+    "steps": [
+      "Mix butter, sugar, and vanilla until creamy.",
+      "Stir in flour and milk until combined.",
+      "Fold in mini chocolate chips.",
+      "Roll dough into small bite-sized balls.",
+      "Chill for 15 minutes before serving."
+    ],
+    "taste": "Sweet + Chewy + Chocolaty ~80 cal",
+    "cookTime": "PT15M",
+    "servings": "12"
+  },
+  "Strawberry Marshmallow Skewers": {
+    "desc": "Get ready for a super yummy and squishy treat! We're putting sweet strawberries and fluffy marshmallows on a stick for a snack that's both fruity and melt-in-your-mouth soft. It might sound a little silly, but trust us, it's super delicious!",
+    "ing": [
+      "1 cup fresh strawberries, hulled",
+      "1 cup mini marshmallows",
+      "8 wooden skewers",
+      "1 tbsp chocolate syrup (optional)"
+    ],
+    "steps": [
+      "Wash and dry strawberries.",
+      "Carefully thread a marshmallow onto a skewer.",
+      "Add a strawberry next.",
+      "Alternate marshmallows and strawberries.",
+      "Drizzle with chocolate syrup if you like!"
+    ],
+    "taste": "Sweet+Fruity+Squishy~150 cal",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Sour Watermelon Bombs": {
+    "desc": "Get ready for a flavor explosion with these Sour Watermelon Bombs! We're taking juicy watermelon and giving it a super sour twist that's strangely delicious. It's a fun and fizzy snack that will make your taste buds tingle!",
+    "ing": [
+      "2 cups watermelon, cubed",
+      "1/4 cup lime juice",
+      "2 tablespoons sugar",
+      "1/2 teaspoon citric acid powder",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Cut watermelon into bite-sized cubes.",
+      "In a bowl, mix lime juice, sugar, salt.",
+      "Add watermelon to the juice mixture.",
+      "Sprinkle with citric acid powder.",
+      "Toss gently to coat all the cubes."
+    ],
+    "taste": "Sour+Sweet+Fizzy~50 cal estimate",
+    "cookTime": "PT10M",
+    "servings": "4"
+  },
+  "Crispy Rice Bites": {
+    "desc": "These crispy rice bites are like a crunchy party in your mouth! We take leftover rice and make it super crispy, then add yummy flavors. It might sound a little silly, but trust us, they're super delicious and fun to eat!",
+    "ing": [
+      "2 cups cooked rice (day-old is best!)",
+      "1 tablespoon olive oil",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon salt",
+      "Pinch of black pepper"
+    ],
+    "steps": [
+      "Heat oil in a pan over medium heat.",
+      "Add rice, spread it out flat.",
+      "Sprinkle with garlic powder, salt, pepper.",
+      "Cook until golden and crispy, stirring.",
+      "Serve warm and enjoy the crunch!"
+    ],
+    "taste": "Crunchy+Savory+Garlicy~180 cal",
+    "cookTime": "PT15M",
+    "servings": "2"
+  },
+  "Pretzel Bagel Bites": {
+    "desc": "Imagine your favorite pretzel and a yummy bagel had a snack baby! These Pretzel Bagel Bites are crunchy, salty, and super fun to eat. They're weird in the best way and totally delicious for an after-school treat.",
+    "ing": [
+      "4 mini bagels",
+      "2 tbsp butter, melted",
+      "1/2 tsp baking soda",
+      "1 cup warm water",
+      "1 tbsp coarse salt"
+    ],
+    "steps": [
+      "Slice mini bagels into bite-sized pieces.",
+      "Mix baking soda into warm water in a bowl.",
+      "Dip bagel pieces into water, then brush with butter.",
+      "Sprinkle with coarse salt.",
+      "Air fry or bake until golden and crunchy."
+    ],
+    "taste": "Salty+Crunchy+Chewy+ ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Crunchy Toast Sticks": {
+    "desc": "Get ready for a super fun and crunchy snack! These toast sticks are like little edible building blocks that you can dip and munch. They're weird because they're toast, but in a totally new, yummy shape!",
+    "ing": [
+      "2 slices bread",
+      "1 tbsp butter, melted",
+      "1/4 tsp cinnamon sugar",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Preheat oven to 350°F (175°C).",
+      "Cut bread into 1-inch wide sticks.",
+      "Toss sticks with melted butter, cinnamon sugar, and salt.",
+      "Bake for 8-10 minutes until golden and crisp."
+    ],
+    "taste": "Sweet+Crunchy+Yummy~150 cal",
+    "cookTime": "PT15M",
+    "servings": "1"
+  },
+  "Yogurt Bark Cups": {
+    "desc": "These Yogurt Bark Cups are like a yummy, chilly cloud you can eat! We're taking creamy yogurt, freezing it into a crunchy bark, and then breaking it into perfect little cups. It's a super cool treat that's weird because it's yogurt, but good because it's like a sweet, icy dream!",
+    "ing": [
+      "1 cup plain Greek yogurt",
+      "1 tablespoon honey",
+      "1/4 cup mixed berries, chopped",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "Mix yogurt, honey, and vanilla.",
+      "Spread thin on parchment paper.",
+      "Sprinkle berries evenly.",
+      "Freeze until solid (1-2 hours).",
+      "Break into bark pieces."
+    ],
+    "taste": "Sweet+Tangy+Fruity ~80 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Mac and Cheese Crackers": {
+    "desc": "Get ready for a cheesy adventure with Mac and Cheese Crackers! We're taking your favorite macaroni and cheese and turning it into a crunchy, cheesy snack that's perfect for munching. It's a super fun way to eat your mac and cheese without a fork!",
+    "ing": [
+      "1 cup cooked macaroni and cheese",
+      "1/4 cup all-purpose flour",
+      "1 tbsp grated Parmesan cheese",
+      "1/4 tsp garlic powder",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Mash mac and cheese with a fork.",
+      "Mix in flour, Parmesan, garlic, and salt.",
+      "Roll dough thin, cut into cracker shapes.",
+      "Bake at 375°F (190°C) for 8-10 mins."
+    ],
+    "taste": "Cheesy+Crunchy+Surprising~180 cal",
+    "cookTime": "PT20M",
+    "servings": "2"
+  },
+  "Pretzel Crust Cups": {
+    "desc": "These Pretzel Crust Cups are like a tiny, crunchy hug for your tastebuds! Imagine your favorite salty pretzel, but now it's a cup holding something yummy inside. It's weird because it's a savory crust for a sweet treat, but it's super good and fun to make!",
+    "ing": [
+      "1 cup crushed pretzels",
+      "1/4 cup melted butter",
+      "1/4 cup brown sugar",
+      "1/2 cup whipped cream",
+      "1/4 cup chocolate chips"
+    ],
+    "steps": [
+      "Mix pretzels, butter, and brown sugar.",
+      "Press mix into mini muffin tins.",
+      "Bake at 350°F for 8 minutes.",
+      "Cool, then fill with whipped cream.",
+      "Top with chocolate chips."
+    ],
+    "taste": "Salty+Sweet+Crunchy~150 cal",
+    "cookTime": "PT15M",
+    "servings": "6"
+  },
+  "Salty Choc Chip Cookies": {
+    "desc": "These aren't your grandma's chocolate chip cookies! We're adding a secret ingredient to make them super salty and super yummy. It might sound a little weird, but trust us, the salty and sweet together is amazing and will make your taste buds sing!",
+    "ing": [
+      "1 cup flour",
+      "1/2 cup sugar",
+      "1/4 cup butter",
+      "1 egg",
+      "1/2 tsp baking soda",
+      "1/2 cup chocolate chips",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Mix butter and sugar until creamy.",
+      "Beat in egg, then add flour and baking soda.",
+      "Stir in chocolate chips and salt.",
+      "Drop spoonfuls onto a baking sheet.",
+      "Bake until golden brown."
+    ],
+    "taste": "Salty + Sweet + Chewy ~150 cal",
+    "cookTime": "PT12M",
+    "servings": "12"
+  },
+  "Sea Salt Caramel Sundae": {
+    "desc": "This sundae is a super cool mix of salty and sweet, like a treasure hunt for your taste buds! You might think salt and caramel are a strange combo, but trust us, it's a delicious surprise that makes your mouth happy. It’s like a party where all the best flavors show up!",
+    "ing": [
+      "2 scoops vanilla ice cream",
+      "2 tbsp caramel sauce",
+      "1/4 tsp sea salt",
+      "1 tbsp whipped cream",
+      "1 mini chocolate bar, chopped"
+    ],
+    "steps": [
+      "Scoop ice cream into a bowl.",
+      "Drizzle caramel sauce over ice cream.",
+      "Sprinkle sea salt evenly.",
+      "Add a dollop of whipped cream.",
+      "Top with chopped chocolate."
+    ],
+    "taste": "Sweet+Salty+Creamy~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Midnight Cookies": {
+    "desc": "Ever had a cookie that's a little bit salty and a little bit sweet, all at the same time? These Midnight Cookies are super easy to make for a late-night snack, with a secret ingredient that makes them extra yummy and a little bit surprising! They're soft, chewy, and perfect for when you need a quick treat.",
+    "ing": [
+      "1/4 cup butter, softened",
+      "1/4 cup brown sugar",
+      "1 egg yolk",
+      "1/2 cup all-purpose flour",
+      "1/4 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "1 tablespoon chocolate chips",
+      "1 pinch sea salt flakes"
+    ],
+    "steps": [
+      "Preheat oven to 350°F (175°C).",
+      "Cream butter and sugar until fluffy.",
+      "Mix in egg yolk.",
+      "Stir in flour, baking soda, and salt.",
+      "Fold in chocolate chips.",
+      "Drop spoonfuls onto a baking sheet.",
+      "Sprinkle with sea salt flakes.",
+      "Bake 8-10 minutes until edges are golden."
+    ],
+    "taste": "Sweet+Salty+Chewy ~250 cal",
+    "cookTime": "PT15M",
+    "servings": "2"
+  },
+  "Energy Goo Bars": {
+    "desc": "Level up your snack game with these awesome Energy Goo Bars! They're super chewy and sweet, packed with good stuff to keep you powered through your quests. It's like a magic potion in bar form, ready for your next gaming adventure!",
+    "ing": [
+      "1 cup rolled oats",
+      "1/2 cup peanut butter",
+      "1/4 cup honey",
+      "1/4 cup chocolate chips",
+      "1/4 cup dried cranberries"
+    ],
+    "steps": [
+      "Mix oats, peanut butter, and honey in a bowl.",
+      "Stir in chocolate chips and cranberries.",
+      "Press mixture into a small pan.",
+      "Chill for 30 minutes, then cut into bars."
+    ],
+    "taste": "Sweet + Chewy + Nutty ~180 cal",
+    "cookTime": "PT10M",
+    "servings": "6"
+  },
+  "Mango Sorbet Cups": {
+    "desc": "These Mango Sorbet Cups are like a sunshine party in your mouth! They're super cold, sweet, and made with real mangoes, making them a yummy frozen treat that's way better than plain ice cream. You'll love the tropical taste!",
+    "ing": [
+      "2 cups frozen mango chunks",
+      "1/4 cup orange juice",
+      "1 tablespoon honey",
+      "1/2 teaspoon lime juice"
+    ],
+    "steps": [
+      "Put frozen mango, orange juice, honey, and lime in blender.",
+      "Blend until smooth and creamy.",
+      "Spoon into small cups.",
+      "Freeze for 30 minutes to firm up."
+    ],
+    "taste": "Sweet+Tangy+Fruity ~120 cal",
+    "cookTime": "PT5M",
+    "servings": "2"
+  },
+  "Cheese Pull Sticks": {
+    "desc": "Get ready for the cheesiest, stretchiest snack ever! These Cheese Pull Sticks are super fun to make and even more fun to eat, perfect for when you want a yummy, gooey treat that really pulls apart. It's like a magic trick you can eat!",
+    "ing": [
+      "1 cup shredded mozzarella cheese",
+      "1/4 cup all-purpose flour",
+      "1 large egg",
+      "1/4 cup breadcrumbs",
+      "1 tbsp vegetable oil",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Mix cheese and flour in a bowl.",
+      "Whisk egg in a separate bowl.",
+      "Dip cheese mix into egg, then breadcrumbs.",
+      "Fry in oil until golden brown.",
+      "Sprinkle with salt and serve hot!"
+    ],
+    "taste": "Cheesy+Gooey+Salty~250 cal",
+    "cookTime": "PT15M",
+    "servings": "2"
+  },
+  "Three Cheese Mini Pizzas": {
+    "desc": "Get ready for tiny, cheesy pizza fun! These mini pizzas are super easy to make and taste like a party in your mouth with three kinds of cheese. It's weirdly good because you can make them so fast and they're the perfect size for little hands!",
+    "ing": [
+      "4 mini pita breads",
+      "1/4 cup pizza sauce",
+      "1/4 cup shredded mozzarella cheese",
+      "2 tablespoons grated Parmesan cheese",
+      "1 tablespoon crumbled feta cheese"
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C).",
+      "Spread sauce on pita breads.",
+      "Sprinkle all cheeses on top.",
+      "Bake for 5-7 minutes until bubbly."
+    ],
+    "taste": "Cheesy+++ savory ~150 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Late Night Quesadilla": {
+    "desc": "This is a super yummy, crispy quesadilla that's perfect for a late-night snack! It's a little bit different because we add some unexpected sweet and salty flavors that taste surprisingly good together. It's like a warm, cheesy hug for your tummy!",
+    "ing": [
+      "1 large flour tortilla",
+      "1/4 cup shredded cheddar cheese",
+      "1 tablespoon peanut butter",
+      "1/2 banana, sliced",
+      "1 teaspoon butter"
+    ],
+    "steps": [
+      "Spread peanut butter on half of tortilla.",
+      "Sprinkle cheese and banana slices on top.",
+      "Fold tortilla in half.",
+      "Melt butter in a pan over medium heat.",
+      "Cook quesadilla 2-3 min per side until golden."
+    ],
+    "taste": "Sweet+Salty+Cheesy~350 cal",
+    "cookTime": "PT10M",
+    "servings": "1"
+  },
+  "Cold Pizza Bagels": {
+    "desc": "Ever had leftover pizza for breakfast? This is like that, but even easier and on a bagel! It's a super fast, no-cook snack that tastes surprisingly good and satisfies those late-night pizza cravings.",
+    "ing": [
+      "1 plain bagel, split",
+      "2 tbsp pizza sauce",
+      "1/4 cup shredded mozzarella cheese",
+      "3-4 slices pepperoni (optional)",
+      "A pinch of dried oregano"
+    ],
+    "steps": [
+      "Split bagel and spread with pizza sauce.",
+      "Sprinkle cheese evenly over sauce.",
+      "Add pepperoni and oregano if using.",
+      "Enjoy your no-cook pizza bagel!"
+    ],
+    "taste": "Cheesy+Savory+Quick~350 cal",
+    "cookTime": "PT2M",
+    "servings": "1"
+  },
+  "One-Handed Burrito": {
+    "desc": "This burrito is super cool because you can eat it with just one hand, leaving your other hand free for important stuff like holding your game controller! It's packed with yummy stuff that makes it a perfect snack for when you're busy leveling up or watching your favorite show. No mess, all fun!",
+    "ing": [
+      "1 large flour tortilla",
+      "1/4 cup shredded cheddar cheese",
+      "2 tablespoons cooked rice",
+      "1 tablespoon refried beans",
+      "1 tablespoon salsa"
+    ],
+    "steps": [
+      "Lay tortilla flat.",
+      "Spread beans, rice, cheese, and salsa.",
+      "Fold sides in, then roll up tightly.",
+      "Microwave for 20-30 seconds."
+    ],
+    "taste": "Cheesy+Savory+Warm~350 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Mess-Free Wings": {
+    "desc": "Get ready for wings that won't make your controller sticky! These \"Mess-Free Wings\" are super yummy and easy to eat while you're battling baddies or building your next masterpiece. No more greasy fingers, just delicious, crispy fun!",
+    "ing": [
+      "1 cup cooked chicken, shredded",
+      "1/4 cup BBQ sauce",
+      "1/4 cup crushed corn chips",
+      "2 tbsp melted butter",
+      "4 small lettuce leaves"
+    ],
+    "steps": [
+      "Mix shredded chicken and BBQ sauce.",
+      "Form into 4 small balls.",
+      "Roll balls in crushed corn chips.",
+      "Brush with melted butter.",
+      "Serve each ball in a lettuce cup."
+    ],
+    "taste": "Crispy+Savory+Yummy~250 cal",
+    "cookTime": "PT10M",
+    "servings": "2"
+  },
+  "Loaded Tater Tot Nachos": {
+    "desc": "These Loaded Tater Tot Nachos are like regular nachos, but with super crispy tater tots instead of chips! We load them up with yummy cheese, beans, and all your favorite nacho toppings for a fun, messy, and totally delicious snack or meal. It's weird, but in the best way possible!",
+    "ing": [
+      "16 oz frozen tater tots",
+      "1 cup shredded cheddar cheese",
+      "1/2 cup canned black beans, rinsed",
+      "1/4 cup salsa",
+      "2 tbsp sour cream"
+    ],
+    "steps": [
+      "Bake tater tots according to package.",
+      "Sprinkle cheese over hot tots.",
+      "Spoon beans and salsa on top.",
+      "Add a dollop of sour cream."
+    ],
+    "taste": "Cheesy, Crispy, Messy! +++ ~600 cal",
+    "cookTime": "PT20M",
+    "servings": "2"
+  },
+  "Pizza Roll Combo Plate": {
+    "desc": "Get ready for the ultimate snack mashup! This Pizza Roll Combo Plate takes your favorite crispy pizza rolls and pairs them with other yummy treats for a super fun and easy meal. It's weird because it's a combo of all the best freezer aisle snacks, but it's good because it's delicious and quick!",
+    "ing": [
+      "15 pizza rolls",
+      "1 cup tater tots",
+      "3 chicken nuggets",
+      "1/4 cup ketchup",
+      "1/4 cup ranch dressing"
+    ],
+    "steps": [
+      "Arrange pizza rolls, tots, and nuggets on plate.",
+      "Microwave on high for 2 minutes.",
+      "Stir, then microwave for 1-2 more minutes.",
+      "Serve with ketchup and ranch for dipping."
+    ],
+    "taste": "Cheesy+Crispy+Savory~750 cal",
+    "cookTime": "PT5M",
+    "servings": "1"
+  },
+  "Chip Sandwich Stack": {
+    "desc": "Ever wanted a sandwich but also a snack? This is it! We're stacking up crispy chips between soft bread for a crunchy, yummy, and super easy treat. It might sound a little silly, but trust us, it's weird-good!",
+    "ing": [
+      "2 slices white bread",
+      "1 tbsp mayonnaise",
+      "1/2 cup potato chips (any flavor!)",
+      "1 slice American cheese"
+    ],
+    "steps": [
+      "Spread mayonnaise on one bread slice.",
+      "Layer chips on the mayo side.",
+      "Top with cheese slice.",
+      "Place second bread slice on top.",
+      "Enjoy your crunchy sandwich!"
+    ],
+    "taste": "Crunchy + Salty + Fun ~350 cal",
+    "cookTime": "PT2M",
+    "servings": "1"
+  }
+}
